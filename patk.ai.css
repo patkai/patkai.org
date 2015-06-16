@@ -1,6 +1,6 @@
 body {
 	text-align: justify;
-
+	background-color: #eeeeee;
 }
 
 
@@ -12,14 +12,14 @@ body {
 
 #menu {
 	height: 50px;
-	border-bottom: #cccccc 1px solid;
+	border-bottom: #47b1ed 4px solid;
 	font-family: Helvetica;
 	font-size: 50px;
 	color: #cccccc;
 	margin: -8px -20px auto -20px;
 	//position: fixed;
-	box-shadow: 0 0px 5px 0 #cccccc;
-	background-color: #f8f8f8;
+	box-shadow: 0 0px 15px 0 #aaa;
+	background-color: white;
 }
 
 #menu img {
@@ -45,7 +45,7 @@ h1 {
 	padding: 6px;
 	border-radius: 2px;
 	box-shadow: 0 5px 5px 0 #cccccc;
-	background-color: #f8f8f8;
+	background-color: white;
 
 }
 
