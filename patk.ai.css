@@ -1,3 +1,19 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #eee;
+  width: 100%;
+  z-index: 100;
+  border-bottom: #cccccc 1px solid;
+  background-color: white;
+  height: 50px;
+  font-family: Helvetica;
+  font-size: 50px;
+  color: #cccccc;
+  box-shadow: 0 0 5px 0 #cccccc;
+}
+
 body {
 	text-align: justify;
 	background-color: #eeeeee;
@@ -17,7 +33,6 @@ body {
 	font-size: 50px;
 	color: #cccccc;
 	margin: -8px -20px auto -20px;
-	//position: fixed;
 	box-shadow: 0 0px 15px 0 #aaa;
 	background-color: white;
 }
@@ -40,13 +55,12 @@ h1 {
 
 #thing {
 	max-width: 800px;
-	margin: 30px auto 20px auto;
+	margin: 60px auto 20px auto;
 	border: #cccccc 1px solid;
 	padding: 6px;
 	border-radius: 2px;
 	box-shadow: 0 5px 5px 0 #cccccc;
 	background-color: white;
-
 }
 
 p {
