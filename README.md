@@ -4,5 +4,6 @@ My name is Bela Patkai, I'm a software developer living in Kokkola, Finland. Cur
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/belapatkai/
-- Github: https://github.com/patkai
 - Email: bela at this domain
+- https://www.researchgate.net/profile/Bela-Patkai
+- https://scholar.google.com/citations?user=TQ3FvoYAAAAJ&hl=en
