@@ -6,41 +6,24 @@ I've been collecting these quotes since 1998. Some of them are funny, some other
 - Broadly speaking, the short words are the best, and the old words best of all. <em>Winston S. Churchill</em>
 - It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</strong> <em><a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt" target="_blank">Teddy Roosevelt</a></em>
 - Computers are useless. They can only give you answers. <em><a href="http://en.wikipedia.org/wiki/Pablo_Picasso" target="_blank">Pablo Picasso</a></em>
-- To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others; to leave the world a bit better; whether by a healthy child, a garden patch or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em></li>
-
-			<li>Remember that a government big enough to give you everything you want is also big enough to take away everything you have. <em><a href="http://en.wikipedia.org/wiki/Barry_Goldwater" target="_blank">Barry Goldwater</a></em></li>
-
-			<li>A promise is a cloud, fulfillment is rain. <em>Arabian Proverb</em></li>
-
-			<li>Ther's no sense in being precise when you don't even know what you are talking about. <em><a href="http://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a></em></li>
-
-			<li>Opportunity is missed by most people because it is dressed in overalls and looks like work. <em><a href="http://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a></em></li>
-
-			<li>The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt. <em><a href="http://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a></em></li>
-
-			<li>There is no expedient to which a man will not resort to avoid the real labor of thinking. <em><a href="http://en.wikipedia.org/wiki/Joshua_Reynolds" target="_blank">Joshua Reynolds</a></em></li>
-
-			<!--	<li>Do what you do best, and link to the rest. <em>Jeff Jarvis (via nickdouglas) (via mikehudack)</em></li>-->
-
-			<li>Don't worry about people stealing your ideas. If it's original, you'll have to ram it down their throats. <em><a href="http://en.wikipedia.org/wiki/Howard_H._Aiken" target="_blank">Howard Aiken</a></em></li>
-
-			<li>I think the skills useful for one are often useful for the other. Coding and music performance are fairly different, other than being disciplines that reward practice, but software design and composition have a lot of similarities. Both involve manipulating and coordinating abstractions, and envisioning their realization, in the case of programs that are processes, in and over time. I’ve certainly found software design satisfies the creative urge I intended to pursue in composition, and has completely displaced it.<em>Rich Hickey</em></em></li>
-
-			<li>If you want creative workers, give them enough time to play. <em><a href="https://youtu.be/WlBiLNN1NhQ" target="_blank">John Cleese</a></em></li>
-
-			<li>Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something. <em><a href="http://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert Heinlein</a></em></li>
-
-			<li>I.G. Petrovskii, who taught me in 1966: genuine mathematicians do not gang up, but the weak need gangs in order to survive. <em><a href="http://en.wikipedia.org/wiki/Vladimir_Arnold" target="_blank">V.I.Arnold</a></em></li>
-
-			<li>There never have been and never will be any "applied sciences", there are only applications of sciences. <em><a href="http://en.wikipedia.org/wiki/Louis_Pasteur" target="_blank">Louis Pasteur</a></em></li>
-
-			<li>There exists yet another phenomenon which is comparable in its inconceivability with the inconceivable effectiveness of mathematics in physics noted by Wigner - this is the equally inconceivable ineffectiveness of mathematics in biology. <em><a href="http://en.wikipedia.org/wiki/Israel_Gelfand" target="_blank">I.M. Gelfand</a></em></li>
-
-			<li>Science is a wonderful thing if one does not have to earn one's living at it. <em><a href="http://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a></em></li>
-
-			<!--<li>Van egy tibeti mondás, amely szerint jobb tigrisként élni egy napig, mint ezer éven át birkaként.</li>-->
-
-			<li>A self-organized system must be always alive and without finalizing, since conclusion is another name for death. <em>Stafford Beer</em> <a href="www.cybersyn.cl" target="_blank">www.cybersyn.cl</a></li>
+- To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others; to leave the world a bit better; whether by a healthy child, a garden patch or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em>
+- Remember that a government big enough to give you everything you want is also big enough to take away everything you have. <em><a href="http://en.wikipedia.org/wiki/Barry_Goldwater" target="_blank">Barry Goldwater</a></em>
+- A promise is a cloud, fulfillment is rain. <em>Arabian Proverb</em>
+- There's no sense in being precise when you don't even know what you are talking about. <em><a href="http://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a></em>
+- Opportunity is missed by most people because it is dressed in overalls and looks like work. <em><a href="http://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a></em>
+- The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt. <em><a href="http://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a></em>
+- There is no expedient to which a man will not resort to avoid the real labor of thinking. <em><a href="http://en.wikipedia.org/wiki/Joshua_Reynolds" target="_blank">Joshua Reynolds</a></em>
+- Do what you do best, and link to the rest. <em>Jeff Jarvis (via nickdouglas) (via mikehudack)</em>
+- Don't worry about people stealing your ideas. If it's original, you'll have to ram it down their throats. <em><a href="http://en.wikipedia.org/wiki/Howard_H._Aiken" target="_blank">Howard Aiken</a></em>
+- I think the skills useful for one are often useful for the other. Coding and music performance are fairly different, other than being disciplines that reward practice, but software design and composition have a lot of similarities. Both involve manipulating and coordinating abstractions, and envisioning their realization, in the case of programs that are processes, in and over time. I’ve certainly found software design satisfies the creative urge I intended to pursue in composition, and has completely displaced it.<em>Rich Hickey</em></em>
+- If you want creative workers, give them enough time to play. <em><a href="https://youtu.be/WlBiLNN1NhQ" target="_blank">John Cleese</a></em>
+- Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something. <em><a href="http://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert Heinlein</a></em>
+- I.G. Petrovskii, who taught me in 1966: genuine mathematicians do not gang up, but the weak need gangs in order to survive. <em><a href="http://en.wikipedia.org/wiki/Vladimir_Arnold" target="_blank">V.I.Arnold</a></em>
+- There never have been and never will be any "applied sciences", there are only applications of sciences. <em><a href="http://en.wikipedia.org/wiki/Louis_Pasteur" target="_blank">Louis Pasteur</a></em>
+- There exists yet another phenomenon which is comparable in its inconceivability with the inconceivable effectiveness of mathematics in physics noted by Wigner - this is the equally inconceivable ineffectiveness of mathematics in biology. <em><a href="http://en.wikipedia.org/wiki/Israel_Gelfand" target="_blank">I.M. Gelfand</a></em>
+- Science is a wonderful thing if one does not have to earn one's living at it. <em><a href="http://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a></em>
+- Van egy tibeti mondás, amely szerint jobb tigrisként élni egy napig, mint ezer éven át birkaként.
+- A self-organized system must be always alive and without finalizing, since conclusion is another name for death. <em>Stafford Beer</em> <a href="www.cybersyn.cl" target="_blank">www.cybersyn.cl</a>
 
 			<!-- <li>És mit mondott fél százada egy hányatott életu amerikai kikőtői rakodómunkás, bizonyos Hoffer? "Az őnzésből fakadó gyulőlet és kegyetlenség semmiség ahhoz képest, amilyen kegyetlenségre és lélekgyilkolásra képes az őnzetlenség."</li>-->
 
