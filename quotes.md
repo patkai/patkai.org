@@ -1,20 +1,8 @@
-<html>
-<head>
-	<title>Bela Patkai's personal home page</title>
-	<meta charset="UTF-8">
-</head>
-<link href="patk.ai.css" rel="stylesheet" type="text/css" />
-<header>
-	<span><a href="index.html">&#x1f3e0;</a> patkai.org</span>
-</header>
+# Quotes
 
-<body>
-	<div id="thing">
-		<h1>Quotes</h1>
-		<p>
-			I've been collecting these quotes since 1998. Some of them are funny, some others thought provoking or at least original, but I don't necessarily find all of them true. <!-- Whenever I did the translation from Hungarian I make a note, but I admit I haven't checked all of them yet for authenticity. In the future I plan to add references, but don't hold your breath, I have my priorities sorted :)-->
-		</p>
-		<ol>
+I've been collecting these quotes since 1998. Some of them are funny, some others thought provoking or at least original, but I don't necessarily find all of them true. <!-- Whenever I did the translation from Hungarian I make a note, but I admit I haven't checked all of them yet for authenticity. In the future I plan to add references, but don't hold your breath, I have my priorities sorted :)-->
+
+
 			<li>I hate quotations. Tell me what you know. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em></li>
 
 			<li>Broadly speaking, the short words are the best, and the old words best of all. <em>Winston S. Churchill</em></li>
@@ -1366,13 +1354,3 @@ Interview of Kipling with Mark Twain http://storyoftheweek.loa.org/2010/04/inter
 
 <h2>References</h2>
 [1] Romsics, Ignác; Béla K. Király. Geopolitics in the Danube Region: Hungarian Reconciliation Efforts, 1848-1998. p. 107.
-
-</div>
-
-</div>
-
-<!-- <div id="footer"><span >put filters here, sticky</span></div>-->
-
-</body>
-
-</html>
