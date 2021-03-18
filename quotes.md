@@ -2,16 +2,11 @@
 
 I've been collecting these quotes since 1998. Some of them are funny, some others thought provoking or at least original, but I don't necessarily find all of them true. <!-- Whenever I did the translation from Hungarian I make a note, but I admit I haven't checked all of them yet for authenticity. In the future I plan to add references, but don't hold your breath, I have my priorities sorted :)-->
 
-
-			<li>I hate quotations. Tell me what you know. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em></li>
-
-			<li>Broadly speaking, the short words are the best, and the old words best of all. <em>Winston S. Churchill</em></li>
-
-			<li><strong>It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</strong> <em><a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt" target="_blank">Teddy Roosevelt</a></em></li>
-
-			<li>Computers are useless. They can only give you answers. <em><a href="http://en.wikipedia.org/wiki/Pablo_Picasso" target="_blank">Pablo Picasso</a></em></li>
-
-			<li>To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others; to leave the world a bit better; whether by a healthy child, a garden patch or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em></li>
+- I hate quotations. Tell me what you know. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a>
+- Broadly speaking, the short words are the best, and the old words best of all. <em>Winston S. Churchill</em>
+- It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</strong> <em><a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt" target="_blank">Teddy Roosevelt</a></em>
+- Computers are useless. They can only give you answers. <em><a href="http://en.wikipedia.org/wiki/Pablo_Picasso" target="_blank">Pablo Picasso</a></em>
+- To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others; to leave the world a bit better; whether by a healthy child, a garden patch or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em></li>
 
 			<li>Remember that a government big enough to give you everything you want is also big enough to take away everything you have. <em><a href="http://en.wikipedia.org/wiki/Barry_Goldwater" target="_blank">Barry Goldwater</a></em></li>
 
