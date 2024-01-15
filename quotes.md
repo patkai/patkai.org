@@ -1,350 +1,88 @@
 # Quotes
 
-I've been collecting these quotes since 1998. Some of them are funny, some others thought provoking or at least original, but I don't necessarily find all of them true. <!-- Whenever I did the translation from Hungarian I make a note, but I admit I haven't checked all of them yet for authenticity. In the future I plan to add references, but don't hold your breath, I have my priorities sorted :)-->
-
-- I hate quotations. Tell me what you know. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a>
-- Broadly speaking, the short words are the best, and the old words best of all. <em>Winston S. Churchill</em>
-- It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</strong> <em><a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt" target="_blank">Teddy Roosevelt</a></em>
-- Computers are useless. They can only give you answers. <em><a href="http://en.wikipedia.org/wiki/Pablo_Picasso" target="_blank">Pablo Picasso</a></em>
-- To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others; to leave the world a bit better; whether by a healthy child, a garden patch or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a></em>
-- Remember that a government big enough to give you everything you want is also big enough to take away everything you have. <em><a href="http://en.wikipedia.org/wiki/Barry_Goldwater" target="_blank">Barry Goldwater</a></em>
-- A promise is a cloud, fulfillment is rain. <em>Arabian Proverb</em>
-- There's no sense in being precise when you don't even know what you are talking about. <em><a href="http://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a></em>
-- Opportunity is missed by most people because it is dressed in overalls and looks like work. <em><a href="http://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a></em>
-- The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt. <em><a href="http://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a></em>
-- There is no expedient to which a man will not resort to avoid the real labor of thinking. <em><a href="http://en.wikipedia.org/wiki/Joshua_Reynolds" target="_blank">Joshua Reynolds</a></em>
-- Do what you do best, and link to the rest. <em>Jeff Jarvis (via nickdouglas) (via mikehudack)</em>
-- Don't worry about people stealing your ideas. If it's original, you'll have to ram it down their throats. <em><a href="http://en.wikipedia.org/wiki/Howard_H._Aiken" target="_blank">Howard Aiken</a></em>
-- I think the skills useful for one are often useful for the other. Coding and music performance are fairly different, other than being disciplines that reward practice, but software design and composition have a lot of similarities. Both involve manipulating and coordinating abstractions, and envisioning their realization, in the case of programs that are processes, in and over time. I’ve certainly found software design satisfies the creative urge I intended to pursue in composition, and has completely displaced it.<em>Rich Hickey</em></em>
-- If you want creative workers, give them enough time to play. <em><a href="https://youtu.be/WlBiLNN1NhQ" target="_blank">John Cleese</a></em>
-- Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something. <em><a href="http://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert Heinlein</a></em>
-- I.G. Petrovskii, who taught me in 1966: genuine mathematicians do not gang up, but the weak need gangs in order to survive. <em><a href="http://en.wikipedia.org/wiki/Vladimir_Arnold" target="_blank">V.I.Arnold</a></em>
-- There never have been and never will be any "applied sciences", there are only applications of sciences. <em><a href="http://en.wikipedia.org/wiki/Louis_Pasteur" target="_blank">Louis Pasteur</a></em>
-- There exists yet another phenomenon which is comparable in its inconceivability with the inconceivable effectiveness of mathematics in physics noted by Wigner - this is the equally inconceivable ineffectiveness of mathematics in biology. <em><a href="http://en.wikipedia.org/wiki/Israel_Gelfand" target="_blank">I.M. Gelfand</a></em>
-- Science is a wonderful thing if one does not have to earn one's living at it. <em><a href="http://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a></em>
-- Van egy tibeti mondás, amely szerint jobb tigrisként élni egy napig, mint ezer éven át birkaként.
-- A self-organized system must be always alive and without finalizing, since conclusion is another name for death. <em>Stafford Beer</em> <a href="www.cybersyn.cl" target="_blank">www.cybersyn.cl</a>
-
-			<!-- <li>És mit mondott fél százada egy hányatott életu amerikai kikőtői rakodómunkás, bizonyos Hoffer? "Az őnzésből fakadó gyulőlet és kegyetlenség semmiség ahhoz képest, amilyen kegyetlenségre és lélekgyilkolásra képes az őnzetlenség."</li>-->
-
-			<li>With or without religion, good people can behave well and bad people can do evil, but for good people to do evil - that takes religion. <em><a href="http://en.wikipedia.org/wiki/Steven_Weinberg#Other_intellectual_contributions" target="blank">Steven Weinberg</a></em></li>
-
-			<!--<li>The Mythical Man-Month:
-			Assigning more programmers to a project running behind schedule, may make it even more late.
-
-			The Second-System Effect:
-			The second system an engineer designs is the most bloated system she will EVER design.
-
-			Conceptual Integrity:
-			To retain conceptual integrity and thereby user-friendliness, a system must have a single architect (or a small system architecture team), completely separate from the implementation team.
-
-			The Manual:
-			The chief architect should produce detailed written specifications for the system in the form of the manual, which leaves no ambiguities about any part of the system and completely specifies the external spcifications of the system i.e. what the user sees.
-
-			Pilot Plant:
-			When designing a new kind of system, a team should factor in the fact that they will have to throw away the first system that is built since this first system will teach them how to build the system. The system will then be completely redesigned using the newly acquired insights during building of the first system. This second system will be smarter and should be the one delivered to the customer.
-
-			Formal Documents:
-			Every project manager must create a roadmap in the form of formal documents which specifies milestones precisely and things like who is going to do what and when and at what cost.
-
-			Communication:
-			In order to avoid disaster, all the teams working on a project, such as the architecture and implementation teams, should stay in contact with each other in as many ways as possible and not guess or assume anything about the other. Ask whenever there's a doubt. NEVER assume anything.
-
-			Code Freeze and System Versioning:
-			No customer ever fully knows what she wants from the system she wants you to build. As the system begins to come to life, and the customer interacts with it, he understands more and more what he really wants from the system and consequently asks for changes. These changes should of course be accomodated but only upto a certain date, after which the code is frozen. All requests for more changes will have to wait until the NEXT version of the system. If you keep making changes to the system endlessly, it may NEVER get finished.
-
-			Specialized Tools:
-			Every team should have a designated tool maker who makes tools for the entire team, instead of all individuals developing and using their private tools that no one else understands.
-
-			No silver bullet:
-			There is no single strategy, technique or trick that will exponentially raise the productivity of programmers.
-		</li>-->
-
-		<!--<li>
-		Hawking lecture:
-		1. Jordan Pascal elegans cikkeit csodalta, mert a tobbi eleg nagy kaosz volt
-		2. Einstein's idea about the thought experiment (ERP?) indicated that he didn't understand quantum mechanics
-		3. what would he ask God if he could: why did you make M-theory so difficult?</li>-->
-		<li>Engineers learn to build, scientists build to learn. <em>Unknown</em></li>
-
-		<!--<li>"Korán érkezni annyi, mint tévedni." - Joe Kraus - JotSpot and Excite founder</li>-->
-
-		<!--<li>The notion of a system may be seen as simply a more self-conscious and generic term for the dynamic interrelatedness of components.
-		Von Bertalanffy</li>-->
-
-		<!--<li>"Yet mark his perfect self-contentment, and hence learn his lesson,
-		that to be self-contented is to be vile and ignorant, and that to
-		aspire is better than to be blindly and impotently happy."
-		--  Edwin A. Abbott, Flatland</li>-->
-
-		<li>Vision without execution is a hallucination. <em><a href="http://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a></em></li>
-
-		<li>The success of any physical investigation depends upon the judicious selection of what is to be observed as of primary importance.<em><a href="http://en.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank">James Clerk Maxwell</a></em></li>
-
-		<li>Philosophy may be ignored but not escaped; and those who most ignore escape least. <em><a href="http://en.wikipedia.org/wiki/David_Hawkins_(philosopher)" target="_blank">David Hawkins</a></em></li>
-
-
-		<!--<li>"...the very powerful and the very stupid have one thing in common. They don't alter their views to fit the facts. They alter the facts to fit their views. Which can be uncomfortable if you happen to be one of the facts that needs altering."  Dr. Who in The Face of Evil from coyotegulch.com</li>-->
-
-
-		<!--	<li>Best advice, from Fortune March 21, 2005.
-		<ul>
-		<li>Warren Buffett: you're right not because others agree with you, but because your facts are right.</li>
-
-		<li>Richard Branson: Make a fool of yourself. Otherwise you won't survive. Use yourself to advertise.</li>
-
-		<li>Howard Schultz: Recognize the skills and traits you don't possess, and hire people who have them.
-
-		<li>Have the courage to stick with a tough job.</li>
-
-		<li>Follow your own instincts, not those of people  who see the world differently.</li>
-
-		<li>Be nice, do your best-and most important, keep it in perspective</li>
-
-		<li>Be yourself.</li>
-
-		<li>Don't listen to the naysayers.</li>
-
-		<li>Don't limit yourself by past expectations.</li>
-
-		<li>When you negotiate, leave a little something on the table.</li>
-
-		<li>Andy Grove: When "everyone knows" something to be true, nobody knows nothin'.</li>
-
-		<li>Remember the parable of the cow in the ditch.</li>
-
-		<li>All you really own are ideas and the confidence to write them down.</li>
-
-		<li>The real discipline comes in saying no to the wrong opportunities. Be driven to learn something not to teach something.</li>
-
-		<li>Get good - or get out.</li>
-
-		<li>Start young.</li>
-
-		<li>Balance your work with your family.</li>
-
-		<li>Bail out of a business that isn't growing.</li>
-
-		<li>Let others take the credit.</li>
-
-		<li>Incorporate philantropy into your corporate structure.</li>
-
-		<li>Surround yourself with people of integrity, and get out of their way.</li>
-
-		<li>If you love something, the money will come.</li>
-
-		<li>Keenly visualize the future.</li>
-
-		<li>Don't chart your career path too soon.</li>
-
-		<li>Respect people for who they are, not for what their titles are.</li>
-
-		<li>You can learn from anyone.</li>
-
-		<li>Do what you love.</li>
-	</ul>
-</li>
--->
-
-<li>What is it indeed that gives us the feeling of elegance in a solution, in a demonstration? It is the harmony of the diverse parts, their symmetry, their happy balance; in a word it is all that introduces order, all that gives unity, that permits us to see clearly and to comprehend at once both the ensemble and the details. <em><a href="http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a></em></li>
-
-<li>...once we have learned a conceptual system, it is neurally instantiated in our brains and we are not free to think just anything. <em><a href="http://en.wikipedia.org/wiki/George_Lakoff" target="_blank">George Lakoff</a></em> Philosophy of the Flesh: The embodied Mind and its challenge to western Thought. pp.5.</li>
-
-<li>You cannot have a rational discussion with a man who prefers shooting you to being convinced by you. <em><a href="http://en.wikipedia.org/wiki/Karl_Popper" target="_blank">Karl Popper</a></em></li>
-
-
-<!--
-<li>MOLDOVA: Minden simogatás mellé nem ártana egy-egy pofont is mellékelni
-Minden jóindulat˙ gesztusod az átlagember szemében szükségképpen a gyengeség jelének tünik. Soha nem hiszi el neked, hogy nem a helyzet kényszerének engedtél, hanem a negylelküség vezetett - neki a saját életében nincsenek ilyen tapasztalatai.</li>
-
-<li>Óvakodj azoktól a barátaidtól, akik azonnal tőrleszteni akarják nekik tett szolgálataidat!
-Igyekvésük mőgőtt általában nem a hálaérzés rejlik, hanem bizalmatlanság és az elzárkózó szándék. Nem akarnak adósaid lenni, hogy ne legyenek viszontszolgálatra kőtelezve. (Ennek azert mas oka is lehet...)
-
-Ne ismerd el a vereségedet, és akkor nem vesztettél
-Hidd el, hogy mind a győztes, mind a küzdelemre figyelő kőzőnség gyenge eresztésnek számít. Csak akkor biztos egy küzdelem eldőltében, ha maga a vesztes nyíltan kijelenti, hogy valóban legyőzték - ellenkező esetben még mindig él benne némi bizonytalanság. Te ne siess ezt eloszlatni.
-Kis ügyességgel és a kőrülmények szerencsés alakulásával később azt is el tudod hitetni, hogy valójában a győztes vesztett. Vedd példának a parlamenti választásokat vagy a hábor˙kat.
-
-Az ellenfeled stílusa téged is meghatároz
-Ritkán választhatod meg, hogy hol, mikor, kivel és milyen fegyverekkel óhajtanál csatázni. Ha éjszaka egy mocsár szélén sártól csőpőgő bikacsőkőt vagy baseballütőt emelnek rád, csak az esztelen vagy az őngyilkosjelőlt póbál meg egy filozófiai idézettel védekezni, neked legalább egy botot kell ragadnod.
-Persze az ilyen harcok rád is visszahatnak. "Aki szőrnyetegekkel viaskodik, az előbb-utóbb szőrnyeteggé válik maga is, és aki sokáig néz az őrvénybe, arra az őrvény visszanéz" - mondta erről Nietzsche.
-
-Ha a lehetőségeinkből már kifogytunk, akkor legalább a lehetetlenben meg kell őrizni a hitünket
-A reménytelenségnek is van egy előnyős oldala: felszabadít minket minden merev felelősségtudat alól, képessé válhatunk a csodák felismerésére és megvalósítására.
-
-Minden harcnak vannak győztesei és nyertesei
-A külőnbség abban áll, hogy a győztes a győzelemért küzdőtt, a nyertes a nyereményért. A két réteg a küzdelem hevében ősszekeveredhet, de csak a legritkább esetben válik azonossá.
-
-Aki elmegy, az veszített
-Amíg ott maradsz a konfliktusaid színhelyén, mindig marad valami halovány esélyed a sikerre. Ha elmégy, átengedted a terepet az ellenségednek, az ő akarata és szándéka érvényesül majd minden korlát nélkül. A távollevőknek soha nem lehet igazuk.
-
-Moldova Gyorgy, Az idealis hadifogoly.</li>-->
-
-<li>An important scientific innovation rarely makes its way by gradually winning over and converting its opponents... What does happen is that its opponents gradually die out and that the growing generation is familiarized with the idea from the beginning. <em><a href="http://en.wikipedia.org/wiki/Max_Planck" target="_blank">Max Planck</a></em> The Philosophy of Physics, 1936</li>
-
-<li>Many are stubborn in pursuit of the path they have chosen, few in pursuit of the goal. <em><a href="http://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a></em></li>
-
-<li>You can fool all the people some of the time, and some of the people all the time, but you can not fool all the people all of the time. <em><a href="http://en.wikipedia.org/wiki/Abraham_Lincoln" target="_blank">Abraham Lincoln</a></em></li>
-
-<!--<li>Akinek vérévé nott az 'emberek' szocilógiai, humanista vagy keresztény felfogása, az nem tudja, mi ez a kerti banda, s ha kőzéjük akar keveredni, végleg le kell mondania minden tudományos, vallásos vagy praktikus elképzelésrol, és helyette vállalnia a határtalan léhaság keresztjét. Mert ebbe a társaságba abszol˙t gondolat-, abszol˙t szeretet-, és abszol˙t ideálmentesen kell belépni -tegnap emléke, holnap terve nélkül, tisztán, elvontan, fecsegve, a pillanat pillanatának tartalmatlan kőzepén. Minden tartalom legradikálisabb kiirtása: ez a társas élet lényege; a társas életé, az abszol˙t, abszurd szaloné, amely az egyetlen fenséges és értelmes válasz a lét titkaira." SZ.O.B.-Casanova. Szentkuthy.</li>-->
-
-<!--<li>Megorizte szellemének amerikai romlatlanságát." Szerb Antal, Utas es a holdvilag, p.32/86.
-"A mélységes butaságban van valami szédíto és őrvényszeruen vonzó, mint az enyészetben. A vákuum vonzóereje." - ugyanott.</li>-->
-
-<!--<li>Niels Bohr szerint a jóslás nehéz dolog, külőnősen, ha a jővorol van szó.</li>-->
-
-<li>The more deeply we study the nature of time, the better we understand that duration means invention, creation of forms, continuous elaboration of the absolutely new. <em>Bergson</em></li>
-<!--
-15:04 2.1.2004
-A magatartásnormákra vonatkozó konszenzus nélkül semmiféle kőzősség nem tud fennmaradni ñ írta Marion Dőnhoff
-
--->
-<li>"Remember, people will judge you by your actions, not your intentions. You may have a heart of gold, but so does a hard-boiled egg." <em>Anonymous</em></li>
-
-<!--
-13:26 5.11.2003
-JUST A QUESTION OF STANDARDS
-
-Does the statement, "We've always done it that way" ring any bells...? The
-US standard railroad gauge (distance between the rails) is 4 feet, 8.5
-inches.
-That's an exceedingly odd number. Why was that gauge used? Because that's
-the
-way they built them in England, and English expatriates built the US
-Railroads.
-
-Why did the English build them like that? Because the first rail lines were
-built by the same people who built the pre-railroad tramways, and that's
-the
-gauge they used. Why did "they" use that gauge then? Because the people who
-built the tramways used the same jigs and spacing. Okay! Why did the wagons
-have that particular odd wheel spacing? Well, if they tried to use any
-other
-spacing, the wagon wheels would break on some of the old, long distance
-roads
-in England, because that's the spacing of the wheel ruts.
-
-So who built those old rutted roads?
-
-Imperial Rome built the first long distance roads in Europe (and England)
-for
-their legions. The roads have been used ever since. And the ruts in the
-roads?
-Roman war chariots formed the initial ruts, which everyone else had to
-match
-for fear of destroying their wagon wheels. Since the chariots were made for
-Imperial Rome, they were all alike in the matter of wheel spacing.
-
-The United States standard railroad gauge of 4 feet, 8.5 inches is derived
-from the original specifications for an Imperial Roman war chariot. And
-bureaucracies live forever.
-
-So the next time you are handed a spec and told we have always done it that
-way and wonder what horse's ass came up with that, you may be exactly
-right,
-because the Imperial Roman war chariots were made wide enough to
-accommodate
-the rear ends of two war horses. Now the twist to the story...
-
-When you see a Space Shuttle sitting on its launch pad, there are two big
-booster rockets attached to the sides of the main fuel tank. These are
-solid
-rocket boosters, or SRBs. The SRBs are made by Thiokol at their factory in
-Utah. The engineers who designed the SRBs would have preferred to make them
-a
-bit fatter, but the SRBs had to be shipped by train from the factory to the
-launch site.
-
-The railroad line from the factory happens to run through a tunnel in the
-mountains. The SRBs had to fit through that tunnel. The tunnel is slightly
-wider than the railroad track, and the railroad track, as you now know, is
-about as wide as two horses' behinds.
-
-So, a major Space Shuttle design feature of what is arguably the world's
-most
-advanced transportation system was determined over two thousand years ago
-by
-the width of a Horse's arse.
-
-And you thought being a horse's arse wasn't important??
-
-15:14 29.10.2003
-minden patrióta kőtelessége hazáját kreatívan szidalmazni, Laurence Durell
-
-12:27 15.10.2003
-"Mindig ugyanaz a nóta: angyalokal szeretnénk társalogni -- és ismerősőkkel
-kell vacsoráznunk egy vendéglőben."
-
-"Két kategóriába tartoznak az emberek: az egyikbe azok, akik keresik az élet
-értelmét és nem találják, a másikba azok, akik nem keresték ugyan, de
-megtalálták."
-
-"Imádság nélkül lehet élni, de az imádság lehetősége nélkül nem."
-
-"Bárkit szerethetünk, kivéve felebarátunkat. A vallások azért győztek, mert
-tagadták ezt az evidenciát. Minthogy a felebaráti szeretet nem valósulhatott
-meg, nem kockáztatták azt, hogy t˙lhaladottá válnak. A parancs mindig
-'érvényes' maradt, '˙j', meghőkkentő, kívánatos, általánosan elfogadott
-parancs."
-
-"Nagy kiváltság megőrizni az ép eszünket: bármikor megvonhatják tőlünk."
-
-"Tudni, hogy mi a fontos -- az a legritkább dolog a világon. Mindazok kőzül
-akiket ismertem, oly kevesen tűntek ki ebben a tekintetben, hogy akár meg is
-nevezhetném őket. Négyen vagy őten voltak ősszesen."
-
-"Abban a reményben olvasok ilyen sokat, hogy egy szép napon olyan magányra
-bukkanok, ami nagyobb, mint az enyém."
-
-"Bármilyen érdemes ember is, aki becsvágyó, csak a felszínen lehet
-tisztességes. Csak a kőzőnyős emberekben bízzál meg."
-
-Tudományos pályafutásra is vonatkoztatható dolgok(Tar Jozsef szerint):
-
-"Annak alapján fognak megítélni, amit írtam, nem pedig annak alapján, amit
-olvastam. Ezt a nevetségesen nyilvánvaló tényt gyakran tévesztem szem elől.
-Minden kőnyv után, amit felfaltam, némi érdemet tulajdonítok magamnak."
-
-"Abbahagyta az írást: már nem volt mit rejtegetnie."
-
-"Száz levélből, amit egy író kap, egyetlen egy érdemel figyelmet. Csaknem
-valamennyit aszerint írják, hogy az ˙jságok, folyóiratok mennyit
-foglalkoznak Veled. Nem az inspirálja őket, amit írtál, hanem az, amit Rólad
-írtak. Minden területen minden "second hand". Legyünk szerények! Én
-megpróbáltam a szerénységet, váltakozó sikerrel. De azért remélem, hogy egy
-szép napon elsajátítom. Erre való a halál."
-
-"A virtuozitás minden téren a semmi jele, a civilizációk hajnalán nem is
-találkozunk vele. Ezért van oly sok igazság a kezdetkor, és olyan kevés a
-siker beteljesedése idején. Csak a vágy pillanata számít, mindenben. Ami
-utána kővetkezik finomkodás, csak rutin."
-
-"Egyetlen aranyszabály van az irodalomban és a művészetekben: nem hagyni
-hátra magunkról teljes képet."
-
-Emile Cioran
-
-11:32 1.10.2003
-The Golden Rule of Arts and Sciences:
-Whoever has the gold makes the rules.
--->
-<li>DEFINITION: Computer - A device designed to speed and automate errors.</li>
-
-<!--
-11:21 1.10.2003
-Qui ignorabat, ignorabitur.
-(The ignorant will remain unnoticed.)
-Quiquid latine dictum sit altum viditur.
-(Whatever is said in Latin seems profound.)
-Si hoc legere scis, nimis eruditionis habes.
-(If you can read this, you are overeducated.)
-
--->
-<li>Natural selection may explain the survival of the fittest, but it cannot explain the arrival of the fittest. <em>Hugo Devries, 1904.</em></li>
+I've been collecting these quotes since 1998. Some of them are funny, some others thought provoking or at least
+original, but I don't necessarily find all of them
+true.
+
+1. I hate quotations. Tell me what you
+   know. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a>
+1. Broadly speaking, the short words are the best, and the old words best of all. <em>Winston S. Churchill</em>
+1. It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds
+   could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust
+   and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort
+   without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great
+   devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement,
+   and
+   who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold
+   and timid souls who neither know victory nor
+   defeat.</strong> <em><a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt" target="_blank">Teddy
+   Roosevelt</a></em>
+1. Computers are useless. They can only give you
+   answers. <em><a href="http://en.wikipedia.org/wiki/Pablo_Picasso" target="_blank">Pablo Picasso</a></em>
+1. To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the
+   appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in
+   others; to leave the world a bit better; whether by a healthy child, a garden patch or a redeemed social condition;
+   to
+   know even one life has breathed easier because you lived. This is to have
+   succeeded. <em><a href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo
+   Emerson</a></em>
+1. Remember that a government big enough to give you everything you want is also big enough to take away everything you
+   have. <em><a href="http://en.wikipedia.org/wiki/Barry_Goldwater" target="_blank">Barry Goldwater</a></em>
+1. A promise is a cloud, fulfillment is rain. <em>Arabian Proverb</em>
+1. There's no sense in being precise when you don't even know what you are talking
+   about. <em><a href="http://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a></em>
+1. Opportunity is missed by most people because it is dressed in overalls and looks like
+   work. <em><a href="http://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a></em>
+1. The trouble with the world is that the stupid are cocksure and the intelligent are full of
+   doubt. <em><a href="http://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a></em>
+1. There is no expedient to which a man will not resort to avoid the real labor of
+   thinking. <em><a href="http://en.wikipedia.org/wiki/Joshua_Reynolds" target="_blank">Joshua Reynolds</a></em>
+1. Do what you do best, and link to the rest. <em>Jeff Jarvis (via nickdouglas) (via mikehudack)</em>
+1. Don't worry about people stealing your ideas. If it's original, you'll have to ram it down their
+   throats. <em><a href="http://en.wikipedia.org/wiki/Howard_H._Aiken" target="_blank">Howard Aiken</a></em>
+1. I think the skills useful for one are often useful for the other. Coding and music performance are fairly different,
+   other than being disciplines that reward practice, but software design and composition have a lot of similarities.
+   Both involve manipulating and coordinating abstractions, and envisioning their realization, in the case of programs
+   that are processes, in and over time. I’ve certainly found software design satisfies the creative urge I intended to
+   pursue in composition, and has completely displaced it.<em>Rich Hickey</em></em>
+1. If you want creative workers, give them enough time to
+   play. <em><a href="https://youtu.be/WlBiLNN1NhQ" target="_blank">John Cleese</a></em>
+   1.Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do
+   something. <em><a href="http://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert Heinlein</a></em>
+1. I.G. Petrovskii, who taught me in 1966: genuine mathematicians do not gang up, but the weak need gangs in order to
+   survive. <em><a href="http://en.wikipedia.org/wiki/Vladimir_Arnold" target="_blank">V.I.Arnold</a></em>
+1. There never have been and never will be any "applied sciences", there are only applications of
+   sciences. <em><a href="http://en.wikipedia.org/wiki/Louis_Pasteur" target="_blank">Louis Pasteur</a></em>
+1. There exists yet another phenomenon which is comparable in its inconceivability with the inconceivable effectiveness
+   of mathematics in physics noted by Wigner - this is the equally inconceivable ineffectiveness of mathematics in
+   biology. <em><a href="http://en.wikipedia.org/wiki/Israel_Gelfand" target="_blank">I.M. Gelfand</a></em>
+1. Science is a wonderful thing if one does not have to earn one's living at
+   it. <em><a href="http://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a></em>
+1. Van egy tibeti mondás, amely szerint jobb tigrisként élni egy napig, mint ezer éven át birkaként.
+1. A self-organized system must be always alive and without finalizing, since conclusion is another name for
+   death. [Stafford Beer](www.cybersyn.cl)
+1. What is it indeed that gives us the feeling of elegance in a solution, in a demonstration? It is the harmony of the
+   diverse parts, their symmetry, their happy balance; in a word it is all that introduces order, all that gives unity,
+   that permits us to see clearly and to comprehend at once both the ensemble and the
+   details. [Henri Poincaré](http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
+1. ...once we have learned a conceptual system, it is neurally instantiated in our brains and we are not free to think
+   just anything. [George Lakoff](http://en.wikipedia.org/wiki/George_Lakoff) Philosophy of the Flesh: The embodied Mind
+   and its challenge to western Thought. pp.5.
+1. You cannot have a rational discussion with a man who prefers shooting you to being convinced by
+   you. [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper)
+1. The more deeply we study the nature of time, the better we understand that duration means invention, creation of
+   forms, continuous elaboration of the absolutely new. <em>Bergson</em>
+1. Remember, people will judge you by your actions, not your intentions. You may have a heart of gold, but so does a hard-boiled egg." <em>Anonymous</em>
+1. DEFINITION: Computer - A device designed to speed and automate errors.
+1. 11:21 1.10.2003  Qui ignorabat, ignorabitur. (The ignorant will remain unnoticed.)
+1. Quiquid latine dictum sit altum viditur. (Whatever is said in Latin seems profound.)
+1. Si hoc legere scis, nimis eruditionis habes. (If you can read this, you are overeducated.)
+1. Natural selection may explain the survival of the fittest, but it cannot explain the arrival of the fittest. <em>Hugo Devries, 1904.</em>
 
 <!--
 12:00 18.9.2003
 Kertesz Imre Galyanaplo elso oldalrol:
-ÑÖ˙gy látszik, hozzátartozik a megpróbáltatás lényegéhez, hogy az ember egy ˙tvonalat visszafelé kővessen; s Martin e pillanatban már tudta is, hogy ez nem álom, hanem a jővo valami külőnős jelképe.
+Ugy látszik, hozzátartozik a megpróbáltatás lényegéhez, hogy az ember egy ˙tvonalat visszafelé kővessen; s Martin e pillanatban már tudta is, hogy ez nem álom, hanem a jővo valami külőnős jelképe.
 Malcolm Lowry: ¡t a Panamán
 ÑMa minden muvész beszáll kora gályájába.î
 Camus
@@ -364,7 +102,7 @@ Faculty of Science - University of Pretoria
 Pretoria 0001 - Rep of South Africa
 
 
-<li>The Top 10 most well known or significant Complexity Sciences principles
+1. The Top 10 most well known or significant Complexity Sciences principles
 
 (1)Hierarchical structure as
 (a) extensional complexity (hierarchies of scale)
@@ -396,8 +134,6 @@ I believe that these pinciples apply, in principle, to abiotic
 dissipative structures as well as to living and social ones.
 
 STAN (Complexity and Management Mailing List <COMPLEX-M@HOME.EASE.LSOFT.COM>)
-</li>
-
 
 22:26 10.8.2003
 "The understanding, like the eye, whilst it makes us see
@@ -439,26 +175,22 @@ John Harte is a professor in the energy and resources group and in the division 
 "Complex Systems is a new field of science studying how parts of a system give rise to the collective behaviors of the system, and how the system interacts with its environment". Dr. Yaneer Bar-Yam, New England Complex Systems Institute.
 
 -->
-
-<li>All science is either physics or stamp collecting. <em>Ernest Rutherford</em></li>
-
-<li>The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy. <em>Steven Weinberg 1933</em></li>
-
-<li>An expert is a man who has made all the mistakes which can be made, in a very narrow field. <em>Niels Bohr</em></li>
-
-<li>The most fruitful developments have always emerged when two kinds of thinking met.
-
-	<li>Natural science does not simply describe and explain nature; it is part of the interplay between nature and ourselves; it describes nature as exposed to our method of questioning. <em>Werner Heisenberg</em></li>
-
-	<!--
-	16:34 6/15/2003
-	www.gridwars.com
+1. All science is either physics or stamp collecting. Ernest Rutherford
+1. The effort to understand the universe is one of the very few things that lifts human life a little above the level of
+   farce, and gives it some of the grace of tragedy. <em>Steven Weinberg 1933</em>
+1. An expert is a man who has made all the mistakes which can be made, in a very narrow field. <em>Niels Bohr</em>
+1. The most fruitful developments have always emerged when two kinds of thinking met.
+1. Natural science does not simply describe and explain nature; it is part of the interplay between nature and
+   ourselves; it describes nature as exposed to our method of questioning. <em>Werner Heisenberg</em>
+   <!--
+   16:34 6/15/2003
+   www.gridwars.com
 -->
-
-<li>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot of courage - to move in the opposite direction. <em>Albert Einstein</em></li>
-
-
-<li>The most extensive computation known has been conducted over the last billion years on a planet-wide scale: it is the evolution of life. The power of this computation is illustrated by the complexity and beauty of its crowning achievement, the human brain. <em>David Rogers</em></li>
+1. Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot
+   of courage - to move in the opposite direction. <em>Albert Einstein</em>
+1. The most extensive computation known has been conducted over the last billion years on a planet-wide scale: it is the
+   evolution of life. The power of this computation is illustrated by the complexity and beauty of its crowning
+   achievement, the human brain. <em>David Rogers</em>
 
 <!--
 15:16 6/15/2003
@@ -497,11 +229,12 @@ Ernst Mach advocated a version of Occam's razor which he called the Principle of
 Eudora Welty:ìFiction is a lie.  Never in its inside thoughts, always in its outside dress.î
 
 -->
-<li>There are many many statements in the literature which say that information is the same as entropy. The reason for this was told by Tribus. The story goes that Shannon didn't know what to call his measure so he asked von Neumann, who said `You should call it entropy ... [since] ... no one knows what entropy really is, so in a debate you will always have the advantage.' <em>M. Tribus, Energy and Information, Scientific American, 1971</em></li>
-
+1. There are many many statements in the literature which say that information is the same as entropy. The reason for
+   this was told by Tribus. The story goes that Shannon didn't know what to call his measure so he asked von Neumann,
+   who said `You should call it entropy ... [since] ... no one knows what entropy really is, so in a debate you will
+   always have the advantage.' <em>M. Tribus, Energy and Information, Scientific American, 1971</em>
 
 <!--
-
 16:19 6/11/2003
 There are many many statements in the literature which say that information is the same as entropy. The reason for this was told by Tribus. The story goes that Shannon didn't know what to call his measure so he asked von Neumann, who said `You should call it entropy ... [since] ... no one knows what entropy really is, so in a debate you will always have the advantage' (Tribus1971).
 @article{Tribus1971,
@@ -541,7 +274,9 @@ Friedrich Nietzsche: Beyond Good and Evil, paragraph 29
 Variatio delectat, mondták a régi rómaiak, a változatosság őrőmet ad.
 
 -->
-<li>Work like you don't need the money. Love like you've never been hurt. Dance like nobody is watching. <em>Mark Twain</em></li>
+
+1. Work like you don't need the money. Love like you've never been hurt. Dance like nobody is watching. <em>Mark
+   Twain</em>
 
 <!--14:04 5/8/2003
 Edward O. Wilson, Consilience (HE WAS RAISED AS SOUTHERN BAPTIST, BORN AGAIN AND BAPTIZED!)
@@ -588,15 +323,10 @@ Varnus Xavér: Hiszek Istenben, és egyre inkább értem, miért írta egykor M�
 17:56 4/26/2003
 Faludy Pokolbéli p.88.
 "Disznósülthőz Chablis, füstőlt disznóoldalashoz tokaji, disznókarajhoz Liebfrauenmilch.
-
-
---><li>The church is a hospital for sinners, not a club for saints.</li>
-
-
-<li>Most people stumble over the truth, now and then, but they usually manage to pick themselves up and go on, anyway. <em>Winston Churchill</em></li>
-
+-->
+1. The church is a hospital for sinners, not a club for saints.
+1. Most people stumble over the truth, now and then, but they usually manage to pick themselves up and go on, anyway. <em>Winston Churchill</em>
 <!--
-
 'Only Six computers will ever be sold in the commercial market'
 Howard Aiken (The designer of the first IBM computer)
 
@@ -609,311 +339,307 @@ where they can do the least damage - MANAGEMENT" - The Dilbert Principle
 
 "The value of an idea lies in the using of it." - Thomas Edison
 -->
-<li>The intuitive mind is a sacred gift and the rational mind is a faithful
-	servant.  We have created a society that honors the servant and has
-	forgotten the gift. <em>Albert Einstein</em></li>
+1. The intuitive mind is a sacred gift and the rational mind is a faithful
+   servant. We have created a society that honors the servant and has
+   forgotten the gift. <em>Albert Einstein</em>
+1. Make no friendship with an elephant keeper
+   unless you have room to entertain an elephant.
+1. I suppose some editors are failed writers, but so are
+   most writers. <em>T. S. Elliot</em>
+1. A mathematician is a device for turning coffee into theorems. <em>Paul Erdős</em>
+1. Fanaticism consists of redoubling your efforts when you have
+   forgotten your aim. <em>George Santayana</em>
+1. Reality is for people who can't handle fantasy.
+1. Stocks are now at what looks like a permanent high plateau - <em>noted economist Irving Fisher, 2
+   weeks before the 1929 stock market crash</em>
+1. There's a fine line between fishing and standing on the shore like an idiot. <em>Steven Wright</em>
+1. Be regular and orderly in your life so that you may be violent and original in your work. <em>Gustave
+   Flaubert</em>
+1. A friend is someone who sees through you, and still enjoys the view. <em>Wilma Askinas</em>
+1. You present these recondite matters with too much evidence and ease; this great facility makes them
+   less appreciated than they would be had they been presented in a more abstruse manner. <em>Sagredo (
+   Galileo Galilei) Two New Sciences</em>
+1. If you look around the table and you don't know who the sucker is, its you.
+1. First they ignore you, then they laugh at you, then they attack you. And then you win. <em>
+   Gandhi</em>
+1. I was gratified to be able to answer promptly, and I did. I said I didn't know. <em>Mark Twain</em>
+1. If I have made myself clear, you must have misunderstood me. <em>Alan Greenspan</em>
+1. When all you've got is a hammer, everything looks like a nail. <em>Japanese proverb</em>
+1. A ship in a harbor is safe, but that is not what ships are built for. <em>William Shedd</em>
+1. There is a coherent plan in the universe, though I don't know what it's a plan for. <em>Fred
+   Hoyle</em>
+1. All the forces in the world are not so powerful as an idea whose time has come. <em>Victor Hugo</em>
+   <!--
+   1. Make it idiot-proof and someone will make a better idiot."
+   -->
+1. You can safely assume you've created God in your own image when it turns out that God hates all the same
+  people you do. <em>Anne Lamot</em>
+1. You're only young once, but you can be immature forever.
+1. Millions long for immortality who do not know what to do with themselves on a rainy Sunday
+  afternoon. <em>Susan Ertz</em>
+1. "If God did not exist, it would be necessary to invent him." - Voltaire
+1. Live as one already dead. <em>Japanese saying</em>
+   <!--
+   Anybody who thinks a little 9,000-line program that's distributed
+   free and can be cloned by anyone is going to affect anything
+   we do at Microsoft has his head screwed on wrong.
+   -- Bill Gates to George Gilder responding to Java
+   (shortly before licensing Java and dumping Blackbird)
+   -->
 
-	<li>Make no friendship with an elephant keeper
-		unless you have room to entertain an elephant.</li>
+   1. Good judgement comes from experience. Experience comes from bad judgement. <em>Buster Bunny (Tiny Toons)</em>
 
-		<li>I suppose some editors are failed writers, but so are
-			most writers. <em>T. S. Elliot</em></li>
+   1. People demand the freedom of speech to make up for the freedom of thought which they avoid. <em>Kirkegarde</em>
 
-			<li>A mathematician is a device for turning coffee into theorems. <em>Paul Erdős</em></li>
+   1. I choose free libraries as the best agencies for improving the masses of the people, because they give nothing
+   for nothing. They only help those who help themselves. <em>Andrew Carnegie</em>
 
-			<li>Fanaticism consists of redoubling your efforts when you have
-				forgotten your aim. <em>George Santayana</em></li>
+   1. Ambition is so powerful a passion in the human breast, that no matter how high we achieve, we are never
+   satisfied. <em>Machiavelli</em>
 
-				<li>Reality is for people who can't handle fantasy.</li>
+   1. If a nation values anything more than freedom, it will lose its freedom, and the irony of it is that if it is
+   comfort or money that it values more, it will lose that too. <em>W. Somerset Maugham</em>
 
-				<li>Stocks are now at what looks like a permanent high plateau - <em>noted economist Irving Fisher, 2 weeks before the 1929 stock market crash</em></li>
+   1. True power and wealth are of the mind.
 
-				<li>There's a fine line between fishing and standing on the shore like an idiot. <em>Steven Wright</em></li>
+   1. All models are wrong. Some models are useful. <em>George Box</em>
 
-				<li>Be regular and orderly in your life so that you may be violent and original in your work. <em>Gustave Flaubert</em></li>
+   1. Giving power and money to the government is like giving whiskey and car keys to teenage boys. <em>P.J.
+   O'Rourke</em>
+   <!--
+   "Paradigm is a word too often used by those who would like
+   to have a new idea but cannot think of one."
+   -- Mervyn King, Deputy Governor, Bank of England
 
-				<li>A friend is someone who sees through you, and still enjoys the view. <em>Wilma Askinas</em></li>
-
-				<li>You present these recondite matters with too much evidence and ease; this great facility makes them less appreciated than they would be had they been presented in a more abstruse manner. <em>Sagredo (Galileo Galilei) Two New Sciences</em></li>
-
-				<li>If you look around the table and you don't know who the sucker is, its you.</li>
-
-				<li>First they ignore you, then they laugh at you, then they attack you.  And then you win. <em>Gandhi</em></li>
-
-				<li>I was gratified to be able to answer promptly, and I did. I said I didn't know. <em>Mark Twain</em></li>
-
-				<li>If I have made myself clear, you must have misunderstood me. <em>Alan Greenspan</em></li>
-
-				<li>When all you've got is a hammer, everything looks like a nail. <em>Japanese proverb</em></li>
-
-				<li>A ship in a harbor is safe, but that is not what ships are built for. <em>William Shedd</em></li>
-
-				<li>There is a coherent plan in the universe, though I don't know what it's a plan for. <em>Fred Hoyle</em></li>
-
-				<li>All the forces in the world are not so powerful as an idea whose time has come. <em>Victor Hugo</em></li>
-
-				<!--
-				<li>Make it idiot-proof and someone will make a better idiot."
-			-->
-
-			<li>You can safely assume you've created God in your own image when it turns out that God hates all the same people you do. <em>Anne Lamot</em></li>
-
-			<li>You're only young once, but you can be immature forever.</li>
-
-			<li>Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon. <em>Susan Ertz</em></li>
-
-			<!--
-			"If God did not exist, it would be necessary to invent him." - Voltaire
-		-->
-		<li>Live as one already dead. <em>Japanese saying</em></li>
-
-		<!--
-		Anybody who thinks a little 9,000-line program that's distributed
-		free and can be cloned by anyone is going to affect anything
-		we do at Microsoft has his head screwed on wrong.
-		-- Bill Gates to George Gilder responding to Java
-		(shortly before licensing Java and dumping Blackbird)
-	-->
-
-	<li>Good judgement comes from experience. Experience comes from bad judgement. <em>Buster Bunny (Tiny Toons)</em></li>
-
-	<li>People demand the freedom of speech to make up for the freedom of thought which they avoid. <em>Kirkegarde</em></li>
-
-	<li>I choose free libraries as the best agencies for improving the masses of the people, because they give nothing for nothing. They only help those who help themselves. <em>Andrew Carnegie</em></li>
-
-	<li>Ambition is so powerful a passion in the human breast, that no matter how high we achieve, we are never satisfied. <em>Machiavelli</em></li>
-
-	<li>If a nation values anything more than freedom, it will lose its freedom, and the irony of it is that if it is comfort or money that it values more, it will lose that too. <em>W. Somerset Maugham</em></li>
-
-	<li>True power and wealth are of the mind. </li>
-
-	<li>All models are wrong.  Some models are useful. <em>George Box</em></li>
-
-	<li>Giving power and money to the government is like giving whiskey and car keys to teenage boys. <em>P.J. O'Rourke</em></li>
-	<!--
-	"Paradigm is a word too often used by those who would like
-	to have a new idea but cannot think of one."
-	-- Mervyn King, Deputy Governor, Bank of England
 -->
 
-<li>Traveler, there is no path. Paths are made by walking. <em>Antonio Machado</em>
+1. Traveler, there is no path. Paths are made by walking. <em>Antonio Machado</em>
 
-	<li>The real destroyer of the liberties of the people is he who spreads among them bounties, donations and benefits. <em>Plutarch</em></li>
+    1. The real destroyer of the liberties of the people is he who spreads among them bounties, donations and
+       benefits. <em>Plutarch</em>
 
-	<li>Where a calculator on the ENIAC is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and weigh only 1 1/2 tons. <em>Popular Mechanics, March 1949</em></li>
+    1. Where a calculator on the ENIAC is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future
+       may have only 1,000 vacuum tubes and weigh only 1 1/2 tons. <em>Popular Mechanics, March 1949</em>
 
-	<li>The wages of sin are death, but after taxes are taken out, it's just a tired feeling. <em>Paula Poundstone</em></li>
+    1. The wages of sin are death, but after taxes are taken out, it's just a tired feeling. <em>Paula Poundstone</em>
 
-	<li>Writing is like Prostitution: First you do it for the love of it. Then you do it for a few friends. And finally you do it for money. <em>Moliere</em></li>
+    1. Writing is like Prostitution: First you do it for the love of it. Then you do it for a few friends. And finally
+       you do it for money. <em>Moliere</em>
 
-	<li>...a man of great talent will normally pay less attention to other  people's foolishness than would a fool. <em>Proust</em></li>
+    1. ...a man of great talent will normally pay less attention to other people's foolishness than would a fool. <em>
+       Proust</em>
 
-	<li>Do not be proud of your knowledge. Listen to the ignorant and
-		the wise.  Art has no limit, and no artist's skills are perfect.
-		Truth may lie as hidden in the earth as copper, or it may be found
-		at play upon the lips of maidens bent above their grindstones.
-		<em>Ptah-hotep, Egyptian teacher, c.2540 BC</em></li>
-		<li>
-			The person who doesn't read lives only one life. The reader lives 5,000. Reading is immortality backwards. <em>Umberto Eco</em>
-		</li>
-		<!--
-		"If we do not succeed, then we face the risk of failure." -- Dan Quayle, Vice-President of the United States
+    1. Do not be proud of your knowledge. Listen to the ignorant and
+       the wise. Art has no limit, and no artist's skills are perfect.
+       Truth may lie as hidden in the earth as copper, or it may be found
+       at play upon the lips of maidens bent above their grindstones.
+       <em>Ptah-hotep, Egyptian teacher, c.2540 BC</em>
+        1.
+        The person who doesn't read lives only one life. The reader lives 5,000. Reading is immortality backwards. <em>
+        Umberto Eco</em>
 
-		"It only stands to reason that where there's sacrifice, there's someone
-		collecting the sacrificial offerings.  Where there's service, there is
-		someone being served.  The man who speaks to you of sacrifice is speaking
-		of slaves and masters, and intends to be the master." -- Ayn Rand
+       <!--
+       "If we do not succeed, then we face the risk of failure." -- Dan Quayle, Vice-President of the United States
 
-		"The reasonable man adapts himself to the world; the unreasonable
-		one persists in trying to adapt the world to himself. Therefore
-		all progress depends on the unreasonable man." - GBS
+       "It only stands to reason that where there's sacrifice, there's someone
+       collecting the sacrificial offerings.  Where there's service, there is
+       someone being served.  The man who speaks to you of sacrifice is speaking
+       of slaves and masters, and intends to be the master." -- Ayn Rand
 
-		If You Know What You're Doing, It's Not Research!
+       "The reasonable man adapts himself to the world; the unreasonable
+       one persists in trying to adapt the world to himself. Therefore
+       all progress depends on the unreasonable man." - GBS
 
-		There are two rules for success in life:
-		Rule 1 - Don't tell people everything you know.
+       If You Know What You're Doing, It's Not Research!
 
-		If we teach everybody, including, say, high school students,
-		habits of skeptical thought, they will probably not restrict
-		their skepticism to UFOs, aspirin commercials, and 35,000-year-old
-		channelees.  Maybe they'll start asking awkward questions about
-		economic, or social, or political, or religious institutions.
-		Perhaps they'll challenge the opinions of those in power.
-		Then where would we be?                -- Carl Sagan
+       There are two rules for success in life:
+       Rule 1 - Don't tell people everything you know.
 
-		What sane person could live in this world and not be crazy?
-		- Ursula K LeGuin
+       If we teach everybody, including, say, high school students,
+       habits of skeptical thought, they will probably not restrict
+       their skepticism to UFOs, aspirin commercials, and 35,000-year-old
+       channelees.  Maybe they'll start asking awkward questions about
+       economic, or social, or political, or religious institutions.
+       Perhaps they'll challenge the opinions of those in power.
+       Then where would we be?                -- Carl Sagan
 
-		If I became a philosopher, if I have so keenly sought this fame for
-		for which I'm still waiting, it's all been to seduce women basically.
-		- Jean Paul Sartre     (quoted in _Harpers_, Jan. 1995 p. 25)
+       What sane person could live in this world and not be crazy?
+       - Ursula K LeGuin
 
-		My music isn't modern, it's merely badly played. - Arnold Schoenberg
+       If I became a philosopher, if I have so keenly sought this fame for
+       for which I'm still waiting, it's all been to seduce women basically.
+       - Jean Paul Sartre     (quoted in _Harpers_, Jan. 1995 p. 25)
 
-		If it smells, it's biology.
-		If it blows up, it's chemistry.
-		If it doesn't work, it's PHYSICS!
+       My music isn't modern, it's merely badly played. - Arnold Schoenberg
 
-		"No one who cannot rejoice in the discovery of his own mistakes
-		deserves to be called a scholar." - Prof. Donald Foster
+       If it smells, it's biology.
+       If it blows up, it's chemistry.
+       If it doesn't work, it's PHYSICS!
 
-		"We learn from history that we learn nothing
-		from history." - George Bernard Shaw
+       "No one who cannot rejoice in the discovery of his own mistakes
+       deserves to be called a scholar." - Prof. Donald Foster
 
-		"If I neither say that a thing exists, nor deny it, nor neither,
-		nor both, then it will take a very long time to dispute me"
-		-- Sherpan philosopher
+       "We learn from history that we learn nothing
+       from history." - George Bernard Shaw
 
-		"It's difficult to get a man to understand something when his
-		salary depends upon his not understanding it." - Upton Sinclair
+       "If I neither say that a thing exists, nor deny it, nor neither,
+       nor both, then it will take a very long time to dispute me"
+       -- Sherpan philosopher
 
-		"Smile more, gentlemen! Serious face doesn't imply
-		intellect: the most stupid things in the world are
-		done with this very face..." - Baron M.
-	-->
+       "It's difficult to get a man to understand something when his
+       salary depends upon his not understanding it." - Upton Sinclair
 
-	<li>It's a damn poor mind that can only think of one way to spell a word.</li>
-	<!--
-	15:57 4/25/2003
-	"We all agree that your theory is crazy, but is it crazy enough?"
-	- Niels Bohr, Nobel physicist, founder of quantum theory
+       "Smile more, gentlemen! Serious face doesn't imply
+       intellect: the most stupid things in the world are
+       done with this very face..." - Baron M.
+   -->
 
-	14:19 4/22/2003
-	W. Schubart írja: ha két szerelmes egymásra talál, akkor a kozmosz egy pontján begyógyul az elszigetelodés sebe.
+    1. It's a damn poor mind that can only think of one way to spell a word.
+   <!--
+   15:57 4/25/2003
+   "We all agree that your theory is crazy, but is it crazy enough?"
+   - Niels Bohr, Nobel physicist, founder of quantum theory
 
-	12:19 4/20/2003
-	rara temporum felicitate, ubi sentire quae velis, et quae sentias dicere licet (Tacitus) - ritkán vagy olyan szerencsés helyzetben, amikor ˙gy vélekedhetsz, ahogy akarsz, és elmondhatod, amit érzel
+   14:19 4/22/2003
+   W. Schubart írja: ha két szerelmes egymásra talál, akkor a kozmosz egy pontján begyógyul az elszigetelodés sebe.
 
-	12:19 4/20/2003
-	nullum magnum ingenium sine mixtura dementiae fuit (Terentius)- nincs már olyan mondás, amelyet ne mondtak volna
+   12:19 4/20/2003
+   rara temporum felicitate, ubi sentire quae velis, et quae sentias dicere licet (Tacitus) - ritkán vagy olyan szerencsés helyzetben, amikor ˙gy vélekedhetsz, ahogy akarsz, és elmondhatod, amit érzel
 
-	12:16 4/20/2003
-	errare humanum est, but in errore perseverare stultum est :) alias: tévedni emberi dolog, de a hibában megmaradni ostobaság
+   12:19 4/20/2003
+   nullum magnum ingenium sine mixtura dementiae fuit (Terentius)- nincs már olyan mondás, amelyet ne mondtak volna
 
-	16:11 4/10/2003
-	Never interrupt an enemy, when he is making a mistake - Bonaparte Napoleon.
+   12:16 4/20/2003
+   errare humanum est, but in errore perseverare stultum est :) alias: tévedni emberi dolog, de a hibában megmaradni ostobaság
 
-	15:53 4/7/2003
-	Koremail:
-	Ifjabb koromban utáltam esküvokre járni, mert a nagymama korban lévo
-	csoroszlyák állandóan odajőttek hozzám, belebőktek a bordáim kőzé és a
-	fülembe vihogták: "Te leszel a kővetkezo... he-he-he..."
-	Aztán abbahagyták, miután én is ugyanezt kezdtem csinálni a temetéseken...
+   16:11 4/10/2003
+   Never interrupt an enemy, when he is making a mistake - Bonaparte Napoleon.
 
-	13:38 3/17/2003
-	"A képzeloero fontosabb, mint a tudás."
+   15:53 4/7/2003
+   Koremail:
+   Ifjabb koromban utáltam esküvokre járni, mert a nagymama korban lévo
+   csoroszlyák állandóan odajőttek hozzám, belebőktek a bordáim kőzé és a
+   fülembe vihogták: "Te leszel a kővetkezo... he-he-he..."
+   Aztán abbahagyták, miután én is ugyanezt kezdtem csinálni a temetéseken...
 
-	"Tőrodés az emberiséggel és annak sorsával - ez álljon az érdeklodése kőzéppontjában minden technikai erofeszítésnek."
+   13:38 3/17/2003
+   "A képzeloero fontosabb, mint a tudás."
 
-	"A tekintély iránt mutatott tiszteletlenségemért a sors azzal büntetett, hogy engem tett tekintéllyé."
+   "Tőrodés az emberiséggel és annak sorsával - ez álljon az érdeklodése kőzéppontjában minden technikai erofeszítésnek."
 
-	"Nem minden megszámlálható, ami számít, és nem minden számít, ami megszámlálható." (Einstein princetoni dolgozószobájának faláról.)
+   "A tekintély iránt mutatott tiszteletlenségemért a sors azzal büntetett, hogy engem tett tekintéllyé."
 
-	"Sose aggódj amiatt, hogy nem érted a matematikát. Biztosíthatlak, nekem még tőbb gondom van vele." (Einstein levele egy 12 éves diáknak.)
+   "Nem minden megszámlálható, ami számít, és nem minden számít, ami megszámlálható." (Einstein princetoni dolgozószobájának faláról.)
 
-	Albert Einstein
+   "Sose aggódj amiatt, hogy nem érted a matematikát. Biztosíthatlak, nekem még tőbb gondom van vele." (Einstein levele egy 12 éves diáknak.)
 
-	12:02 3/14/2003
-	Csak akkor megyek társaságba, amikor kedvem szottyan unatkozni. (Jules Renard)
+   Albert Einstein
 
-	12:01 3/14/2003
-	Nem mindenki muzsikus, aki hegeduvel mászkál. (Abraham A. Santa Clara)
+   12:02 3/14/2003
+   Csak akkor megyek társaságba, amikor kedvem szottyan unatkozni. (Jules Renard)
 
-	12:00 3/14/2003
-	Ha majom néz a tükőrbe, nem nézhet vissza apostol. (Lichtenberg)
+   12:01 3/14/2003
+   Nem mindenki muzsikus, aki hegeduvel mászkál. (Abraham A. Santa Clara)
 
-	11:58 3/14/2003
-	Ahol tőbb az érzés, tőbb a szenvedés is (Leonardo de Vinci)
+   12:00 3/14/2003
+   Ha majom néz a tükőrbe, nem nézhet vissza apostol. (Lichtenberg)
 
-	11:56 3/14/2003
-	A jó házasság feltétele, hogy a férj süket legyen, a feleség pedig vak. (Szókratész)
+   11:58 3/14/2003
+   Ahol tőbb az érzés, tőbb a szenvedés is (Leonardo de Vinci)
 
-	11:51 3/14/2003
-	Anatole France (1844-1924): "A tudást csak akkor tudjuk megemészteni, ha jó étvággyal habzsoltuk."
+   11:56 3/14/2003
+   A jó házasság feltétele, hogy a férj süket legyen, a feleség pedig vak. (Szókratész)
 
-	12:47 3/12/2003
-	Recte dicit Aristoteles: radices doctrinae amaras, fructus dulces esse.
-	Helyesen mondja Arisztotelész, hogy a tudomány győkerei keseruek, gyümőlcsei pedig édesek.
+   11:51 3/14/2003
+   Anatole France (1844-1924): "A tudást csak akkor tudjuk megemészteni, ha jó étvággyal habzsoltuk."
 
-	17:03 3/11/2003
-	It's harder to disintegrate a prejudice than an atom. Albert Einstein
+   12:47 3/12/2003
+   Recte dicit Aristoteles: radices doctrinae amaras, fructus dulces esse.
+   Helyesen mondja Arisztotelész, hogy a tudomány győkerei keseruek, gyümőlcsei pedig édesek.
 
-	15:14 2/18/2003
-	SFI Bulletin, winter 2003. p14. "Redundancy... It allows the organism to be more stable, but by virtue of the increased complexity, less efficient.
+   17:03 3/11/2003
+   It's harder to disintegrate a prejudice than an atom. Albert Einstein
 
-	12:02 1/30/2003
-	Gazdag Papa:
-	-Texasi mondás: Mindenki a mennybe akar kerülni, de senki nem akar meghalni.
-	-A kishitu (a vesztes? a szerk. :-)) kritizál, a nyertes elemez. A kritika elvakít, az elemzés felnyitja az ember szemét.
+   15:14 2/18/2003
+   SFI Bulletin, winter 2003. p14. "Redundancy... It allows the organism to be more stable, but by virtue of the increased complexity, less efficient.
 
-	18:59 12/11/2002
-	Einstein (1879-1955) "A theory is more impressive the greater the simplicity of its premises is, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression which classical thermodynamics made upon me. It is the only physical theory of universal content concerning which I am convinced that, within the framework of the applicability of its basic concepts, it will never be overthrown."
+   12:02 1/30/2003
+   Gazdag Papa:
+   -Texasi mondás: Mindenki a mennybe akar kerülni, de senki nem akar meghalni.
+   -A kishitu (a vesztes? a szerk. :-)) kritizál, a nyertes elemez. A kritika elvakít, az elemzés felnyitja az ember szemét.
 
-	18:29 12/11/2002
-	Rudolf Clausius(1822-1888, in 1865) "The energy of the universe is constant. The entropy of the universe approaches a maximum." This was the first evolutionary formulation of cosmology. (Prigogine modern thermodynamics)
+   18:59 12/11/2002
+   Einstein (1879-1955) "A theory is more impressive the greater the simplicity of its premises is, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression which classical thermodynamics made upon me. It is the only physical theory of universal content concerning which I am convinced that, within the framework of the applicability of its basic concepts, it will never be overthrown."
 
-	18:07 12/11/2002
-	"It is now generally admitted that biological evolution is the combined result of Darwin's natural selection as well as of self-organization which results from irreversible processes."
-	Kondepudi,Prigogine, Modern Thermodynamics
+   18:29 12/11/2002
+   Rudolf Clausius(1822-1888, in 1865) "The energy of the universe is constant. The entropy of the universe approaches a maximum." This was the first evolutionary formulation of cosmology. (Prigogine modern thermodynamics)
 
-	14:52 11/29/2002
-	I really do not at all like the now fashionable "positivistic" tendency of clinging to what is observable...I think...that theory cannot be fabricated out of the results of observation, but that it can only be invented. A. Einstein
+   18:07 12/11/2002
+   "It is now generally admitted that biological evolution is the combined result of Darwin's natural selection as well as of self-organization which results from irreversible processes."
+   Kondepudi,Prigogine, Modern Thermodynamics
 
-	14:52 11/29/2002
-	There is nothing more practical than a good theory. L. Boltzmann
+   14:52 11/29/2002
+   I really do not at all like the now fashionable "positivistic" tendency of clinging to what is observable...I think...that theory cannot be fabricated out of the results of observation, but that it can only be invented. A. Einstein
 
-	14:51 11/29/2002
-	It is not so much important to be rigorous as to be right. A.N.Kolmogorov
+   14:52 11/29/2002
+   There is nothing more practical than a good theory. L. Boltzmann
 
-	16:45 11/27/2002
-	Lewis Mumford tőbb kőnyvet írt a technológia problémáiról, a civilizációs óriásgéprol, stb. Ismert amerikai, inkább kritizál, alternatívákban szegény.
+   14:51 11/29/2002
+   It is not so much important to be rigorous as to be right. A.N.Kolmogorov
 
-	15:42 11/27/2002
-	ÑÖ tévednek azok, akik szerint a matematikai tudományok
-	semmit sem mondanak a széprol vagy a jóról.î
-	Arisztotelész
+   16:45 11/27/2002
+   Lewis Mumford tőbb kőnyvet írt a technológia problémáiról, a civilizációs óriásgéprol, stb. Ismert amerikai, inkább kritizál, alternatívákban szegény.
 
-	12:50 11/26/2002
-	"The most immediate observation regarding the nervous system is that its functioning is prima facie digital." (prima facie=on its face, seemingly?)
-	John von Neumann, The Computer and the Brain.
+   15:42 11/27/2002
+   ÑÖ tévednek azok, akik szerint a matematikai tudományok
+   semmit sem mondanak a széprol vagy a jóról.î
+   Arisztotelész
 
-	15:12 11/18/2002
-	As the researcher Tommaso Toffoli mused back in 1984, "In a sense, nature has been continually computing the `next state' of the universe for billions of years; all we have to do ó and, actually, all we can do ó is `hitch a ride' on this huge ongoing computation."
-	Sunday, June 16, 2002 The New York Times online.
+   12:50 11/26/2002
+   "The most immediate observation regarding the nervous system is that its functioning is prima facie digital." (prima facie=on its face, seemingly?)
+   John von Neumann, The Computer and the Brain.
 
-	17:30 11/14/2002
-	'Tis true, 'tis day; what though it be? O wilt thou therefore rise from me? Why should we rise? because 'tis light? Did we lie downe, because 'twas night? Love which in despight of darknesse brought us hether, Should in despight of light keepe us together.'
-	John Donne (Nina idézte)
+   15:12 11/18/2002
+   As the researcher Tommaso Toffoli mused back in 1984, "In a sense, nature has been continually computing the `next state' of the universe for billions of years; all we have to do ó and, actually, all we can do ó is `hitch a ride' on this huge ongoing computation."
+   Sunday, June 16, 2002 The New York Times online.
 
-	9:40 11/5/2002
-	Robert Geyer, Ph.D., a political scientist at The University of Liverpool, has a similar view. "The Santa Fe Institute people often argue that complexity is a way of gaining more order, more understanding and control, to foretell the future and increase profits," he says. "However, I think that complexity is about recognizing that there are areas that nobody can control and understand." Because this perspective is rare among CEOs and the political elite, both groups exaggerate the impact of policies, Geyer believes, and tend to dismiss the often fatal, unintended consequences those policies engender.
+   17:30 11/14/2002
+   'Tis true, 'tis day; what though it be? O wilt thou therefore rise from me? Why should we rise? because 'tis light? Did we lie downe, because 'twas night? Love which in despight of darknesse brought us hether, Should in despight of light keepe us together.'
+   John Donne (Nina idézte)
 
-	9:29 11/5/2002
-	Biosgroup has developed a model for Nasdaq that looked at the macro impact of thousands of traders' reactions to various scenarios, and for Southwest Airlines designed a new scheduling method for cargo handling that saved 30 percent in costs and 70 percent in time.
+   9:40 11/5/2002
+   Robert Geyer, Ph.D., a political scientist at The University of Liverpool, has a similar view. "The Santa Fe Institute people often argue that complexity is a way of gaining more order, more understanding and control, to foretell the future and increase profits," he says. "However, I think that complexity is about recognizing that there are areas that nobody can control and understand." Because this perspective is rare among CEOs and the political elite, both groups exaggerate the impact of policies, Geyer believes, and tend to dismiss the often fatal, unintended consequences those policies engender.
 
-	http://www.amscatalyst.com/issues/issue_6/features/fa0608.asp?issue_id=6&article_id=152
+   9:29 11/5/2002
+   Biosgroup has developed a model for Nasdaq that looked at the macro impact of thousands of traders' reactions to various scenarios, and for Southwest Airlines designed a new scheduling method for cargo handling that saved 30 percent in costs and 70 percent in time.
 
-	9:23 11/5/2002
-	The best way to predict the future is to create it.ª - Peter Drucker
+   http://www.amscatalyst.com/issues/issue_6/features/fa0608.asp?issue_id=6&article_id=152
 
-	17:48 10/30/2002
-	Maximum Entropy Method in Soft Design
+   9:23 11/5/2002
+   The best way to predict the future is to create it.ª - Peter Drucker
 
-	Antonio Donnarumma
+   17:48 10/30/2002
+   Maximum Entropy Method in Soft Design
 
-	Michele Pappalardo
+   Antonio Donnarumma
 
-	Abstract
-	In this paper is analysed the problem, using soft models, of soft dependence of parameters in design systems. A new form of computing, called Soft Computing, is recently used in many emerging disciplines because is tolerant of imprecision, uncertainty and partial truth. The Soft Computing uses many disciplines as Bayesian inference and Maximum Entropy Method . The logic relationship that tie the different elements can be defined more easy using the axioms of soft design coming out from MinEnt principle . The fundamental axiom of design is: Valid design has minimum values of information and depends on a finite and limited number of independent, or soft dependent, parameters.
-	Keywords: Soft Design, Soft Computing, Uncertainty, Entropy,MaxEnt, Axiomatic Design.
-	___________________________________
-	15:26 10/23/2002
-	Nem tőrtént még olyan megfigyelés, amelyhez nem lehetett megfelelo matematikai modellt találni. Kroó...
-	15:04 10/23/2002
-	Ha egy gondolat nem tunik elso hallásra orültnek, akkor reménytelen". Kroó Norbert, Mindentudás egyeteme.
-	___________________________________
+   Michele Pappalardo
+
+   Abstract
+   In this paper is analysed the problem, using soft models, of soft dependence of parameters in design systems. A new form of computing, called Soft Computing, is recently used in many emerging disciplines because is tolerant of imprecision, uncertainty and partial truth. The Soft Computing uses many disciplines as Bayesian inference and Maximum Entropy Method . The logic relationship that tie the different elements can be defined more easy using the axioms of soft design coming out from MinEnt principle . The fundamental axiom of design is: Valid design has minimum values of information and depends on a finite and limited number of independent, or soft dependent, parameters.
+   Keywords: Soft Design, Soft Computing, Uncertainty, Entropy,MaxEnt, Axiomatic Design.
+   ___________________________________
+   15:26 10/23/2002
+   Nem tőrtént még olyan megfigyelés, amelyhez nem lehetett megfelelo matematikai modellt találni. Kroó...
+   15:04 10/23/2002
+   Ha egy gondolat nem tunik elso hallásra orültnek, akkor reménytelen". Kroó Norbert, Mindentudás egyeteme.
+   ___________________________________
+
 -->
-<li>Science and technology will shift from a past emphasis on motion, force, and energy to communication, organization, programming and control. <em>John von Neumann, 1950 (!!!)</em></li>
+
+1. Science and technology will shift from a past emphasis on motion, force, and energy to communication, organization,
+   programming and control. <em>John von Neumann, 1950 (!!!)</em>
+
 <!--
 ____________________________________
 15:58 10/7/2002
@@ -947,16 +673,22 @@ The best way to fight complexity is to strive for simplicity, which leads to fun
 http://www.acm.org/ubiquity/views/k_delic_1.html
 __________________________________
 13:51 9/30/2002
-Mai agyunkban a logikus gondolatok és kővetkeztetések lefolyása olyan ősztőnők pőrlekedésének és harcának felel meg, amelyek egyenkint, őnmagukban mind nagyon logikátlanok és jogosulatlanok; mi rendszerint csak e harc eredményeirol értesülünk.
+Mai agyunkban a logikus gondolatok és kővetkeztetések lefolyása olyan ősztőnők pőrlekedésének és harcának felel meg,
+amelyek egyenkint, őnmagukban mind nagyon logikátlanok és jogosulatlanok; mi rendszerint csak e harc eredményeirol
+értesülünk.
 Friedrich Nietzsche: A vidám tudomány, Szabó Ede fordítása
 __________________________________
 11:03 9/24/20 -->
 
-<li>The Antichrist can be born from piety itself, from excessive love of God or of the truth, as the heretic is born from the saint and the possesed from the seer. Fear prophets, Adso, and those prepared to die for the truth, for as a rule they make many others die with them, often before them, at times instead of them. <em>Umberto Eco, The Name of the Rose, p. 491.</em></li>
+1. The Antichrist can be born from piety itself, from excessive love of God or of the truth, as the heretic is born from
+   the saint and the possesed from the seer. Fear prophets, Adso, and those prepared to die for the truth, for as a rule
+   they make many others die with them, often before them, at times instead of them. <em>Umberto Eco, The Name of the
+   Rose, p. 491.</em>
 
-<li>Quiet people have the loudest minds. <em>Stephen Hawking</em></li>
+1. Quiet people have the loudest minds. <em>Stephen Hawking</em>
 
-<li>How beautiful is youth, that is always slipping away! Whoever wants to be happy, let him be so: about tomorrow there’s no knowing. <em>Lorenzo de' Medici</em></li>
+1. How beautiful is youth, that is always slipping away! Whoever wants to be happy, let him be so: about tomorrow
+   there’s no knowing. <em>Lorenzo de' Medici</em>
 
 <!--
 __________________________________
@@ -1292,7 +1024,7 @@ The Dharmadhatu is not entirely foreign to Western thought, for something very s
 Excerpted from the book "Zen Buddhism"
 written by D.T. Suzuki.
 
-<li>"According to the philosophy of Zen, we are too much a slave to the conventional way of thinking. which is dualistic through and through. No "interpenetration" is allowed, there takes place no fusing of opposites in our everyday logic. What belongs to God is not of this world, and what is of this world is incompatible with the divine. Black is not white, and white is not black. Tiger is tiger, and cat is cat, and they will never be one. Water flows, a mountain towers. This is the way things or ideas go in this universe of the senses and syllogisms. Zen, however, upsets this scheme of thought and substitutes a new one in which there exists no logic, no dualistic arrangement of ideas. We believe in dualism chiefly because of our traditional training. Whether ideas really correspond to facts is another matter requiring a special investigation. Ordinarily we do not inquire into the matter, we just accept what is instilled into our minds; for to accept is more convenient and practical, and life is to a certain extent, though not in reality, made thereby easier. We are in nature conservatives, not because we are lazy, but because we like repose and peace, even superficially. But the time comes when traditional logic holds true no more, for we begin to feel contradictions and splits and consequently spiritual anguish. We lose trustful repose which we experienced when we blindly followed the traditional ways of thinking. Eckhart says that we are all seeking repose whether consciously or not just as the stone cannot cease moving until it touches the earth. Evidently the repose we seemed to enjoy before we were awakened to the contradictions involved in our logic was not the real one, the stone has kept moving down toward the ground. Where then is the ground of non-dualism on which the soul can be really and truthfully tranquil and blessed? To quote Echart again, "Simple people conceive that we are to see God as if He stood on that side and we on this. It is not so; God and I are one in the act of my perceiving Him." In this absolute oneness of things Zen establishes the foundations of its philosophy. The idea of absolute oneness is not the exclusive possesion of Zen. There are other religious and philosophies that preach the same doctrine. If Zen, like other monisms or theisms, merely laid down this principle and did not have anythng specifically to be known as Zen, it would have long ceased to exist as such. But there is in Zen something unique which makes up its life and justifies its claim to be the most precious heritage of Eastern culture. The following "Mondo" or dialogue (literally questioning and answering) will give us a glimsp into the ways of Zen, A monk asked Joshu, one of the greatest masters in China, "What is the ultimate word of Truth?" Instead of giving him any specific answer he made a simple response saying, "Yes." The monk who naturally failed to see any sense in this kind of response asked for a second time, and to this the Master roared back. "I am not deaf!" See how irrelevantly (shall I say) the all-important problem of absolute oneness or of the ultimate reason is treated here! But this is characteristic of Zen, this is where Zen transcends logic and overrides the tyranny and misrepresentation of ideas. As I have said before, Zen mistrusts the intellect, does not rely upon traditional and dualistic methods of reasoning, and handles problems after its own original manners....To understand all this, it is necessary that we should acquire a "third eye", as they say, and learn to look at things from a new point of view." </li>
+1. "According to the philosophy of Zen, we are too much a slave to the conventional way of thinking. which is dualistic through and through. No "interpenetration" is allowed, there takes place no fusing of opposites in our everyday logic. What belongs to God is not of this world, and what is of this world is incompatible with the divine. Black is not white, and white is not black. Tiger is tiger, and cat is cat, and they will never be one. Water flows, a mountain towers. This is the way things or ideas go in this universe of the senses and syllogisms. Zen, however, upsets this scheme of thought and substitutes a new one in which there exists no logic, no dualistic arrangement of ideas. We believe in dualism chiefly because of our traditional training. Whether ideas really correspond to facts is another matter requiring a special investigation. Ordinarily we do not inquire into the matter, we just accept what is instilled into our minds; for to accept is more convenient and practical, and life is to a certain extent, though not in reality, made thereby easier. We are in nature conservatives, not because we are lazy, but because we like repose and peace, even superficially. But the time comes when traditional logic holds true no more, for we begin to feel contradictions and splits and consequently spiritual anguish. We lose trustful repose which we experienced when we blindly followed the traditional ways of thinking. Eckhart says that we are all seeking repose whether consciously or not just as the stone cannot cease moving until it touches the earth. Evidently the repose we seemed to enjoy before we were awakened to the contradictions involved in our logic was not the real one, the stone has kept moving down toward the ground. Where then is the ground of non-dualism on which the soul can be really and truthfully tranquil and blessed? To quote Echart again, "Simple people conceive that we are to see God as if He stood on that side and we on this. It is not so; God and I are one in the act of my perceiving Him." In this absolute oneness of things Zen establishes the foundations of its philosophy. The idea of absolute oneness is not the exclusive possesion of Zen. There are other religious and philosophies that preach the same doctrine. If Zen, like other monisms or theisms, merely laid down this principle and did not have anythng specifically to be known as Zen, it would have long ceased to exist as such. But there is in Zen something unique which makes up its life and justifies its claim to be the most precious heritage of Eastern culture. The following "Mondo" or dialogue (literally questioning and answering) will give us a glimsp into the ways of Zen, A monk asked Joshu, one of the greatest masters in China, "What is the ultimate word of Truth?" Instead of giving him any specific answer he made a simple response saying, "Yes." The monk who naturally failed to see any sense in this kind of response asked for a second time, and to this the Master roared back. "I am not deaf!" See how irrelevantly (shall I say) the all-important problem of absolute oneness or of the ultimate reason is treated here! But this is characteristic of Zen, this is where Zen transcends logic and overrides the tyranny and misrepresentation of ideas. As I have said before, Zen mistrusts the intellect, does not rely upon traditional and dualistic methods of reasoning, and handles problems after its own original manners....To understand all this, it is necessary that we should acquire a "third eye", as they say, and learn to look at things from a new point of view."  
 
 “Your conscience is a nuisance. A conscience is like a child. If
 you pet it and play with it and let it have everything that it wants,
@@ -1310,25 +1042,256 @@ it’s best when it’s dead.”
 Interview of Kipling with Mark Twain http://storyoftheweek.loa.org/2010/04/interview-with-mark-twain.html
 
 
-<li>
+1. 
 	Az optimizmus az emberiség ópiuma! Az egészséges lélek ostobaságtól bűzlik. Milan Kundera
-</li>
+ 
 -->
-<li>
-	A nation of one language and the same customs is weak and fragile. <em>King Stephen I of Hungary</em> [1]
-</li>
-<li>
-    We live in a decaying age. Young people no longer respect their parents. They are rude and impatient. They frequently inhabit taverns and have no self control.
-    <em>Inscription, 6000 year-old Egyptian tomb</em> <!-- 2017.05.15.-->
-</li>
 
-<li>
-    Do not speak -- unless it improves on silence. <em>Buddhist Proverb</em> <!-- 2017.05.16.-->
-</li>
-<!--<li>
+1.
+A nation of one language and the same customs is weak and fragile. <em>King Stephen I of Hungary</em> [1]
+
+1.
+We live in a decaying age. Young people no longer respect their parents. They are rude and impatient. They frequently
+inhabit taverns and have no self control.
+<em>Inscription, 6000 year-old Egyptian tomb</em> <!-- 2017.05.15.-->
+
+
+1.
+Do not speak -- unless it improves on silence. <em>Buddhist Proverb</em> <!-- 2017.05.16.-->
+
+			<!-- 1. És mit mondott fél százada egy hányatott életu amerikai kikőtői rakodómunkás, bizonyos Hoffer? "Az őnzésből fakadó gyulőlet és kegyetlenség semmiség ahhoz képest, amilyen kegyetlenségre és lélekgyilkolásra képes az őnzetlenség." -->
+
+			1. With or without religion, good people can behave well and bad people can do evil, but for good people to do evil - that takes religion. <em><a href="http://en.wikipedia.org/wiki/Steven_Weinberg#Other_intellectual_contributions" target="blank">Steven Weinberg</a></em> 
+
+			<!--1. The Mythical Man-Month:
+			Assigning more programmers to a project running behind schedule, may make it even more late.
+
+			The Second-System Effect:
+			The second system an engineer designs is the most bloated system she will EVER design.
+
+			Conceptual Integrity:
+			To retain conceptual integrity and thereby user-friendliness, a system must have a single architect (or a small system architecture team), completely separate from the implementation team.
+
+			The Manual:
+			The chief architect should produce detailed written specifications for the system in the form of the manual, which leaves no ambiguities about any part of the system and completely specifies the external spcifications of the system i.e. what the user sees.
+
+			Pilot Plant:
+			When designing a new kind of system, a team should factor in the fact that they will have to throw away the first system that is built since this first system will teach them how to build the system. The system will then be completely redesigned using the newly acquired insights during building of the first system. This second system will be smarter and should be the one delivered to the customer.
+
+			Formal Documents:
+			Every project manager must create a roadmap in the form of formal documents which specifies milestones precisely and things like who is going to do what and when and at what cost.
+
+			Communication:
+			In order to avoid disaster, all the teams working on a project, such as the architecture and implementation teams, should stay in contact with each other in as many ways as possible and not guess or assume anything about the other. Ask whenever there's a doubt. NEVER assume anything.
+
+			Code Freeze and System Versioning:
+			No customer ever fully knows what she wants from the system she wants you to build. As the system begins to come to life, and the customer interacts with it, he understands more and more what he really wants from the system and consequently asks for changes. These changes should of course be accomodated but only upto a certain date, after which the code is frozen. All requests for more changes will have to wait until the NEXT version of the system. If you keep making changes to the system endlessly, it may NEVER get finished.
+
+			Specialized Tools:
+			Every team should have a designated tool maker who makes tools for the entire team, instead of all individuals developing and using their private tools that no one else understands.
+
+			No silver bullet:
+			There is no single strategy, technique or trick that will exponentially raise the productivity of programmers.
+		 -->
+
+		<!--1. 
+		Hawking lecture:
+		1. Jordan Pascal elegans cikkeit csodalta, mert a tobbi eleg nagy kaosz volt
+		2. Einstein's idea about the thought experiment (ERP?) indicated that he didn't understand quantum mechanics
+		3. what would he ask God if he could: why did you make M-theory so difficult? -->
+		1. Engineers learn to build, scientists build to learn. <em>Unknown</em> 
+
+		<!--1. "Korán érkezni annyi, mint tévedni." - Joe Kraus - JotSpot and Excite founder -->
+
+		<!--1. The notion of a system may be seen as simply a more self-conscious and generic term for the dynamic interrelatedness of components.
+		Von Bertalanffy -->
+
+		<!--1. "Yet mark his perfect self-contentment, and hence learn his lesson,
+		that to be self-contented is to be vile and ignorant, and that to
+		aspire is better than to be blindly and impotently happy."
+		--  Edwin A. Abbott, Flatland -->
+
+		1. Vision without execution is a hallucination. <em><a href="http://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a></em> 
+
+		1. The success of any physical investigation depends upon the judicious selection of what is to be observed as of primary importance.<em><a href="http://en.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank">James Clerk Maxwell</a></em> 
+
+		1. Philosophy may be ignored but not escaped; and those who most ignore escape least. <em><a href="http://en.wikipedia.org/wiki/David_Hawkins_(philosopher)" target="_blank">David Hawkins</a></em> 
+
+
+		<!--1. "...the very powerful and the very stupid have one thing in common. They don't alter their views to fit the facts. They alter the facts to fit their views. Which can be uncomfortable if you happen to be one of the facts that needs altering."  Dr. Who in The Face of Evil from coyotegulch.com -->
+
+
+		<!--	1. Best advice, from Fortune March 21, 2005.
+		<ul>
+		1. Warren Buffett: you're right not because others agree with you, but because your facts are right. 
+
+		1. Richard Branson: Make a fool of yourself. Otherwise you won't survive. Use yourself to advertise. 
+
+		1. Howard Schultz: Recognize the skills and traits you don't possess, and hire people who have them.
+
+		1. Have the courage to stick with a tough job. 
+
+		1. Follow your own instincts, not those of people  who see the world differently. 
+
+		1. Be nice, do your best-and most important, keep it in perspective 
+
+		1. Be yourself. 
+
+		1. Don't listen to the naysayers. 
+
+		1. Don't limit yourself by past expectations. 
+
+		1. When you negotiate, leave a little something on the table. 
+
+		1. Andy Grove: When "everyone knows" something to be true, nobody knows nothin'. 
+
+		1. Remember the parable of the cow in the ditch. 
+
+		1. All you really own are ideas and the confidence to write them down. 
+
+		1. The real discipline comes in saying no to the wrong opportunities. Be driven to learn something not to teach something. 
+
+		1. Get good - or get out. 
+
+		1. Start young. 
+
+		1. Balance your work with your family. 
+
+		1. Bail out of a business that isn't growing. 
+
+		1. Let others take the credit. 
+
+		1. Incorporate philantropy into your corporate structure. 
+
+		1. Surround yourself with people of integrity, and get out of their way. 
+
+		1. If you love something, the money will come. 
+
+		1. Keenly visualize the future. 
+
+		1. Don't chart your career path too soon. 
+
+		1. Respect people for who they are, not for what their titles are. 
+
+		1. You can learn from anyone. 
+
+		1. Do what you love. 
+	</ul>
+
+-->
+<!--
+1. MOLDOVA: Minden simogatás mellé nem ártana egy-egy pofont is mellékelni
+Minden jóindulat˙ gesztusod az átlagember szemében szükségképpen a gyengeség jelének tünik. Soha nem hiszi el neked, hogy nem a helyzet kényszerének engedtél, hanem a negylelküség vezetett - neki a saját életében nincsenek ilyen tapasztalatai. 
+
+1. Óvakodj azoktól a barátaidtól, akik azonnal tőrleszteni akarják nekik tett szolgálataidat!
+Igyekvésük mőgőtt általában nem a hálaérzés rejlik, hanem bizalmatlanság és az elzárkózó szándék. Nem akarnak adósaid lenni, hogy ne legyenek viszontszolgálatra kőtelezve. (Ennek azert mas oka is lehet...)
+
+Ne ismerd el a vereségedet, és akkor nem vesztettél
+Hidd el, hogy mind a győztes, mind a küzdelemre figyelő kőzőnség gyenge eresztésnek számít. Csak akkor biztos egy küzdelem eldőltében, ha maga a vesztes nyíltan kijelenti, hogy valóban legyőzték - ellenkező esetben még mindig él benne némi bizonytalanság. Te ne siess ezt eloszlatni.
+Kis ügyességgel és a kőrülmények szerencsés alakulásával később azt is el tudod hitetni, hogy valójában a győztes vesztett. Vedd példának a parlamenti választásokat vagy a hábor˙kat.
+
+Az ellenfeled stílusa téged is meghatároz
+Ritkán választhatod meg, hogy hol, mikor, kivel és milyen fegyverekkel óhajtanál csatázni. Ha éjszaka egy mocsár szélén sártól csőpőgő bikacsőkőt vagy baseballütőt emelnek rád, csak az esztelen vagy az őngyilkosjelőlt póbál meg egy filozófiai idézettel védekezni, neked legalább egy botot kell ragadnod.
+Persze az ilyen harcok rád is visszahatnak. "Aki szőrnyetegekkel viaskodik, az előbb-utóbb szőrnyeteggé válik maga is, és aki sokáig néz az őrvénybe, arra az őrvény visszanéz" - mondta erről Nietzsche.
+
+Ha a lehetőségeinkből már kifogytunk, akkor legalább a lehetetlenben meg kell őrizni a hitünket
+A reménytelenségnek is van egy előnyős oldala: felszabadít minket minden merev felelősségtudat alól, képessé válhatunk a csodák felismerésére és megvalósítására.
+
+Minden harcnak vannak győztesei és nyertesei
+A külőnbség abban áll, hogy a győztes a győzelemért küzdőtt, a nyertes a nyereményért. A két réteg a küzdelem hevében ősszekeveredhet, de csak a legritkább esetben válik azonossá.
+
+Aki elmegy, az veszített
+Amíg ott maradsz a konfliktusaid színhelyén, mindig marad valami halovány esélyed a sikerre. Ha elmégy, átengedted a terepet az ellenségednek, az ő akarata és szándéka érvényesül majd minden korlát nélkül. A távollevőknek soha nem lehet igazuk.
+
+Moldova Gyorgy, Az idealis hadifogoly. -->
+
+1. An important scientific innovation rarely makes its way by gradually winning over and converting its opponents...
+   What does happen is that its opponents gradually die out and that the growing generation is familiarized with the
+   idea from the beginning. <em><a href="http://en.wikipedia.org/wiki/Max_Planck" target="_blank">Max Planck</a></em>
+   The Philosophy of Physics, 1936
+
+1. Many are stubborn in pursuit of the path they have chosen, few in pursuit of the
+   goal. <em><a href="http://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a></em>
+
+1. You can fool all the people some of the time, and some of the people all the time, but you can not fool all the
+   people all of the time. <em><a href="http://en.wikipedia.org/wiki/Abraham_Lincoln" target="_blank">Abraham
+   Lincoln</a></em>
+
+<!--1. Akinek vérévé nott az 'emberek' szocilógiai, humanista vagy keresztény felfogása, az nem tudja, mi ez a kerti banda, s ha kőzéjük akar keveredni, végleg le kell mondania minden tudományos, vallásos vagy praktikus elképzelésrol, és helyette vállalnia a határtalan léhaság keresztjét. Mert ebbe a társaságba abszol˙t gondolat-, abszol˙t szeretet-, és abszol˙t ideálmentesen kell belépni -tegnap emléke, holnap terve nélkül, tisztán, elvontan, fecsegve, a pillanat pillanatának tartalmatlan kőzepén. Minden tartalom legradikálisabb kiirtása: ez a társas élet lényege; a társas életé, az abszol˙t, abszurd szaloné, amely az egyetlen fenséges és értelmes válasz a lét titkaira." SZ.O.B.-Casanova. Szentkuthy. -->
+
+<!--1. Megorizte szellemének amerikai romlatlanságát." Szerb Antal, Utas es a holdvilag, p.32/86.
+"A mélységes butaságban van valami szédíto és őrvényszeruen vonzó, mint az enyészetben. A vákuum vonzóereje." - ugyanott. -->
+
+<!--1. Niels Bohr szerint a jóslás nehéz dolog, külőnősen, ha a jővorol van szó. -->
+<!--
+15:04 2.1.2004
+A magatartásnormákra vonatkozó konszenzus nélkül semmiféle kőzősség nem tud fennmaradni ñ írta Marion Dőnhoff
+
+15:14 29.10.2003
+minden patrióta kőtelessége hazáját kreatívan szidalmazni, Laurence Durell
+
+12:27 15.10.2003
+"Mindig ugyanaz a nóta: angyalokal szeretnénk társalogni -- és ismerősőkkel
+kell vacsoráznunk egy vendéglőben."
+
+"Két kategóriába tartoznak az emberek: az egyikbe azok, akik keresik az élet
+értelmét és nem találják, a másikba azok, akik nem keresték ugyan, de
+megtalálták."
+
+"Imádság nélkül lehet élni, de az imádság lehetősége nélkül nem."
+
+"Bárkit szerethetünk, kivéve felebarátunkat. A vallások azért győztek, mert
+tagadták ezt az evidenciát. Minthogy a felebaráti szeretet nem valósulhatott
+meg, nem kockáztatták azt, hogy t˙lhaladottá válnak. A parancs mindig
+'érvényes' maradt, '˙j', meghőkkentő, kívánatos, általánosan elfogadott
+parancs."
+
+"Nagy kiváltság megőrizni az ép eszünket: bármikor megvonhatják tőlünk."
+
+"Tudni, hogy mi a fontos -- az a legritkább dolog a világon. Mindazok kőzül
+akiket ismertem, oly kevesen tűntek ki ebben a tekintetben, hogy akár meg is
+nevezhetném őket. Négyen vagy őten voltak ősszesen."
+
+"Abban a reményben olvasok ilyen sokat, hogy egy szép napon olyan magányra
+bukkanok, ami nagyobb, mint az enyém."
+
+"Bármilyen érdemes ember is, aki becsvágyó, csak a felszínen lehet
+tisztességes. Csak a kőzőnyős emberekben bízzál meg."
+
+Tudományos pályafutásra is vonatkoztatható dolgok(Tar Jozsef szerint):
+
+"Annak alapján fognak megítélni, amit írtam, nem pedig annak alapján, amit
+olvastam. Ezt a nevetségesen nyilvánvaló tényt gyakran tévesztem szem elől.
+Minden kőnyv után, amit felfaltam, némi érdemet tulajdonítok magamnak."
+
+"Abbahagyta az írást: már nem volt mit rejtegetnie."
+
+"Száz levélből, amit egy író kap, egyetlen egy érdemel figyelmet. Csaknem
+valamennyit aszerint írják, hogy az ˙jságok, folyóiratok mennyit
+foglalkoznak Veled. Nem az inspirálja őket, amit írtál, hanem az, amit Rólad
+írtak. Minden területen minden "second hand". Legyünk szerények! Én
+megpróbáltam a szerénységet, váltakozó sikerrel. De azért remélem, hogy egy
+szép napon elsajátítom. Erre való a halál."
+
+"A virtuozitás minden téren a semmi jele, a civilizációk hajnalán nem is
+találkozunk vele. Ezért van oly sok igazság a kezdetkor, és olyan kevés a
+siker beteljesedése idején. Csak a vágy pillanata számít, mindenben. Ami
+utána kővetkezik finomkodás, csak rutin."
+
+"Egyetlen aranyszabály van az irodalomban és a művészetekben: nem hagyni
+hátra magunkról teljes képet."
+
+Emile Cioran
+
+11:32 1.10.2003
+The Golden Rule of Arts and Sciences:
+Whoever has the gold makes the rules.
+-->
+<!--1. 
 	Ha gyűlölettel és undorral nézünk a világra, a világ gyűlöletes és undorító lesz; amennyiben szeretettel és várakozással, úgy kiszámíthatatlan és ellenséges; a legjobb tehát, ha nem nézünk sehogyan. Befejezni a nézdegélést, nem ingadozni, hogy szelíden mosolygó arcot vagy ördögien vigyorgó pofát, simogatásra vagy ülésre emelkedő kezet látunk -e, végérvényesen lebírni az eredendő... kíváncsiságot, a kukucskálásra késztető hősies hajlamot, a legkevesebb, amit tehetünk. Krasznahorkai
-</li>-->
-</ol>
+ -->
 
 <h2>References</h2>
-[1] Romsics, Ignác; Béla K. Király. Geopolitics in the Danube Region: Hungarian Reconciliation Efforts, 1848-1998. p. 107.
+[1] Romsics, Ignác; Béla K. Király. Geopolitics in the Danube Region: Hungarian Reconciliation Efforts, 1848-1998. p.
+
+107.
