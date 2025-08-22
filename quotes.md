@@ -98,6 +98,7 @@ I've been collecting these quotes since 1998. Some of them are funny, some other
 96. *An important scientific innovation rarely makes its way by gradually winning over and converting its opponents... What does happen is that its opponents gradually die out and that the growing generation is familiarized with the idea from the beginning.* Max Planck - The Philosophy of Physics, 1936
 97. *Many are stubborn in pursuit of the path they have chosen, few in pursuit of the goal.* Friedrich Nietzsche
 98. *You can fool all the people some of the time, and some of the people all the time, but you can not fool all the people all of the time.* Abraham Lincoln
+
 ## Hungarian Quotes
 99. *Van egy tibeti mondás, amely szerint jobb tigrisként élni egy napig, mint ezer éven át birkaként.*
 100. *A gondolkodás nagyon nehéz munka, ezért foglalkoznak vele olyan kevesen.* Henry Ford
@@ -137,5 +138,6 @@ I've been collecting these quotes since 1998. Some of them are funny, some other
 134. *Tévednek azok, akik szerint a matematikai tudományok semmit sem mondanak a szépről vagy a jóról.* Arisztotelész
 135. *Mai agyunkban a logikus gondolatok és következtetések lefolyása olyan ösztönök pörlekedésének és harcának felel meg, amelyek egyenként, önmagukban mind nagyon logikátlanok és jogosulatlanok; mi rendszerint csak e harc eredményeiről értesülünk.* Friedrich Nietzsche: A vidám tudomány
 136. *Az optimizmus az emberiség ópiuma! Az egészséges lélek ostobaságtól büzlik.* Milan Kundera
+
 ## References
 [1] Romsics, Ignác; Béla K. Király. Geopolitics in the Danube Region: Hungarian Reconciliation Efforts, 1848-1998. p. 107.
