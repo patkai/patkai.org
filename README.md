@@ -1,14 +1,14 @@
-# Welcome!
+## Welcome!
 
 My name is Bela Patkai, I'm a software developer living in Helsinki, Finland.
 Currently I'm working as a CTO at [Ampcontrol Technologies Inc.](www.ampcontrol.io)
 
-## Menu
+### Menu
 
 - [My favourite quotes](https://patkai.org/quotes)
 - [Questions](https://patkai.org/questions)
 
-## Contact
+### Contact
 
 - Email: bela at this domain
 - [LinkedIn](https://www.linkedin.com/in/belapatkai/)
