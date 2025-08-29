@@ -7,6 +7,7 @@ Currently I'm working as a CTO at [Ampcontrol Technologies Inc.](www.ampcontrol.
 
 - [My favourite quotes](https://patkai.org/quotes)
 - [Questions](https://patkai.org/questions)
+- [An Incorrect Theory of Software Development](https://patkai.org/incorrect)
 
 ### Contact
 
