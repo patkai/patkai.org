@@ -1,3 +1,10 @@
 theme: jekyll-theme-modernist
-title: patkai.org
+title: [patkai.org](https://patkai.org)
 description: Béla Pátkai, BSc, BEng, MSc, PhD, SMIEEE
+url: "https://patkai.org"
+baseurl: "https://patkai.org"
+author: Béla Pátkai
+email: bela@patkai.org
+github_username: patkai
+linkedin_username: bela-patkai
+twitter_username: patk_ai
