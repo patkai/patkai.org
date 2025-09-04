@@ -6,7 +6,6 @@ Currently I'm working as a CTO at [Ampcontrol Technologies Inc.](https://www.amp
 ### Menu
 
 - [My favourite quotes](https://patkai.org/quotes)
-- [Questions](https://patkai.org/questions)
 
 ### Contact
 
