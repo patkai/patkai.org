@@ -12,6 +12,6 @@ Currently I'm working as a CTO at [Ampcontrol Technologies Inc.](https://www.amp
 - Email: bela at this domain
 - [LinkedIn](https://www.linkedin.com/in/belapatkai/)
 - [ResearchGate profile](https://www.researchgate.net/profile/Bela-Patkai)
-- [Publications on Google Scholar](https://scholar.google.com/citations?user=TQ3FvoYAAAAJ&hl=en)
+- [Publications on Google Scholar](https://scholar.google.com)
 - [Twitter](https://twitter.com/patk_ai)
 - [GitHub](https://github.com/patkai)
