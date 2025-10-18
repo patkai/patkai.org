@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
 title: patkai.org
-description: Béla Pátkai PhD
+description: Personal home page of Béla Pátkai PhD
+baseurl: https://patkai.org
