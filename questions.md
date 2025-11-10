@@ -1,4 +1,7 @@
-## Questions
+---
+layout: page
+title: Questions
+---
 
 ### 2016.03.03.
 

@@ -1,6 +1,30 @@
-theme: jekyll-theme-modernist
+# Site settings
 title: patkai.org
 description: Personal home page of Béla Pátkai PhD
 url: https://patkai.org
 baseurl: /
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md.bak
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 

@@ -1,4 +1,7 @@
-## An Incorrect Theory of Software Development
+---
+layout: page
+title: An Incorrect Theory of Software Development
+---
 
 ### Smitten
 
