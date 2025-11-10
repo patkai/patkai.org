@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="quotes-page fade-in-up">
+  <header class="quotes-header">
+    <h1>{{ page.title | default: "Quotes" }}</h1>
+    {% if page.description %}
+    <p class="text-muted">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="quote-controls">
+    <input
+      type="text"
+      id="quote-search"
+      class="search-box"
+      placeholder="🔍 Search quotes... (Ctrl+K)"
+      aria-label="Search quotes"
+    >
+    <button id="random-quote" class="btn btn-primary">🎲 Random Quote</button>
+    <button id="show-all" class="btn">📋 Show All</button>
+  </div>
+
+  <div class="quote-stats text-muted" style="margin-bottom: 1.5rem;">
+    <span id="quote-count">Loading quotes...</span>
+    <span style="margin-left: 1rem;">💡 Tip: Double-click a quote to copy it!</span>
+  </div>
+
+  <div id="quotes-list">
+    {{ content }}
+  </div>
+</div>

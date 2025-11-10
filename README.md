@@ -1,17 +1,28 @@
-## Welcome!
+---
+layout: home
+---
 
-My name is Bela Patkai, I'm a software developer living in Helsinki, Finland.
-Currently I'm working as a CTO at [Ampcontrol Technologies Inc.](https://www.ampcontrol.io)
+## About Me
 
-### Menu
+My name is **Béla Pátkai**, I'm a software developer living in **Helsinki, Finland**.
 
-- [My favourite quotes](https://patkai.org/quotes)
+Currently I'm working as a CTO at [Ampcontrol Technologies Inc.](https://www.ampcontrol.io), where we're building innovative solutions for electric vehicle charging infrastructure.
 
-### Contact
+### Explore
 
-- Email: bela at this domain
-- [LinkedIn](https://www.linkedin.com/in/belapatkai/)
-- [ResearchGate profile](https://www.researchgate.net/profile/Bela-Patkai)
-- [Publications on Google Scholar](https://scholar.google.com)
-- [Twitter](https://twitter.com/patk_ai)
-- [GitHub](https://github.com/patkai)
+<div class="card">
+
+**[📖 My Favourite Quotes](/quotes)** - A curated collection of thought-provoking quotes I've been gathering since 1998.
+
+</div>
+
+### Connect
+
+<div class="contact-links">
+  <a href="mailto:bela@patkai.org" class="contact-link">✉️ Email</a>
+  <a href="https://www.linkedin.com/in/belapatkai/" class="contact-link" target="_blank" rel="noopener">💼 LinkedIn</a>
+  <a href="https://www.researchgate.net/profile/Bela-Patkai" class="contact-link" target="_blank" rel="noopener">🔬 ResearchGate</a>
+  <a href="https://scholar.google.com" class="contact-link" target="_blank" rel="noopener">🎓 Google Scholar</a>
+  <a href="https://twitter.com/patk_ai" class="contact-link" target="_blank" rel="noopener">🐦 Twitter</a>
+  <a href="https://github.com/patkai" class="contact-link" target="_blank" rel="noopener">💻 GitHub</a>
+</div>
